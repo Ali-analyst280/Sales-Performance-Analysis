@@ -1,0 +1,1001 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Region,State,Category,Sub Category,Product Name,Quantity,Sales,Cost,Profit,Discount,Month,Year,Profit Margin %
+ORD10002,19-03-2025,C1243,Customer 45,East,Odisha,Furniture,Table,Table,10,9102.24,6314.04,2788.2,10,March,2025,30.63%
+ORD10003,10-10-2025,C1089,Customer 42,West,Gujarat,Office Supplies,Pen,Pen,9,11604.76,6876.26,4728.5,10,October,2025,40.75%
+ORD10004,11-02-2025,C1008,Customer 151,North,Delhi,Office Supplies,Binder,Binder,7,17735.69,9035.4,8700.29,15,February,2025,49.06%
+ORD10005,25-07-2025,C1042,Customer 297,North,Delhi,Technology,Keyboard,Keyboard,4,43416.36,21885.77,21530.59,15,July,2025,49.59%
+ORD10006,10-05-2025,C1060,Customer 111,North,Delhi,Office Supplies,Binder,Binder,6,36319.37,19117.57,17201.8,5,May,2025,47.36%
+ORD10007,26-04-2025,C1048,Customer 256,East,West Bengal,Furniture,Chair,Chair,10,41465.92,21843.97,19621.95,5,April,2025,47.32%
+ORD10008,28-04-2025,C1095,Customer 261,East,Odisha,Office Supplies,Pen,Pen,5,39196.55,27927.02,11269.53,5,April,2025,28.75%
+ORD10009,07-04-2025,C1293,Customer 205,East,West Bengal,Technology,Keyboard,Keyboard,4,47350.95,39269.47,8081.48,5,April,2025,17.07%
+ORD10010,11-06-2025,C1077,Customer 8,South,Kerala,Office Supplies,Binder,Binder,8,16348.82,9663.22,6685.6,10,June,2025,40.89%
+ORD10011,12-04-2025,C1096,Customer 173,South,Karnataka,Furniture,Chair,Chair,2,44498.41,32388.25,12110.16,10,April,2025,27.21%
+ORD10012,12-08-2025,C1238,Customer 236,South,Karnataka,Furniture,Table,Table,5,26960.26,14056.78,12903.48,0,August,2025,47.86%
+ORD10013,28-07-2025,C1164,Customer 189,South,Karnataka,Office Supplies,Pen,Pen,8,34377.38,19837.58,14539.8,5,July,2025,42.29%
+ORD10014,03-05-2025,C1003,Customer 191,East,West Bengal,Technology,Keyboard,Keyboard,5,7458.86,5310.87,2147.99,15,May,2025,28.80%
+ORD10015,01-09-2025,C1218,Customer 80,South,Tamil Nadu,Technology,Mouse,Mouse,7,38686.04,27661.81,11024.23,20,September,2025,28.50%
+ORD10016,21-04-2025,C1059,Customer 1,South,Kerala,Technology,Laptop,Laptop,4,27873.6,20687.69,7185.91,5,April,2025,25.78%
+ORD10017,06-02-2025,C1222,Customer 168,West,Gujarat,Office Supplies,Binder,Binder,1,6882.13,3628.17,3253.96,0,February,2025,47.28%
+ORD10018,01-10-2025,C1244,Customer 70,East,Odisha,Furniture,Chair,Chair,5,16713.62,9130.42,7583.2,20,October,2025,45.37%
+ORD10019,18-06-2025,C1103,Customer 56,North,Delhi,Technology,Keyboard,Keyboard,4,23298.77,12729.71,10569.06,10,June,2025,45.36%
+ORD10020,24-02-2025,C1031,Customer 169,East,Odisha,Office Supplies,Pen,Pen,3,2318.64,2006.51,312.13,5,February,2025,13.46%
+ORD10021,22-06-2025,C1008,Customer 256,East,Odisha,Technology,Laptop,Laptop,8,25220.1,21482.64,3737.46,0,June,2025,14.82%
+ORD10022,02-11-2025,C1104,Customer 94,North,Punjab,Office Supplies,Pen,Pen,4,23074.45,13856.66,9217.79,0,November,2025,39.95%
+ORD10023,30-08-2025,C1263,Customer 181,North,Delhi,Technology,Laptop,Laptop,1,40600.17,24045.36,16554.81,20,August,2025,40.78%
+ORD10024,07-05-2025,C1192,Customer 134,West,Maharashtra,Technology,Mouse,Mouse,7,42777.96,21475.18,21302.78,10,May,2025,49.80%
+ORD10025,28-07-2025,C1217,Customer 222,North,Delhi,Technology,Mouse,Mouse,2,49198.57,28232.25,20966.32,5,July,2025,42.62%
+ORD10026,01-11-2025,C1010,Customer 8,East,West Bengal,Furniture,Table,Table,2,39717.56,31459.11,8258.45,0,November,2025,20.79%
+ORD10027,29-05-2025,C1206,Customer 62,West,Maharashtra,Technology,Keyboard,Keyboard,7,47781.76,29255.28,18526.48,5,May,2025,38.77%
+ORD10028,20-07-2025,C1257,Customer 64,West,Gujarat,Furniture,Chair,Chair,10,43553.27,31145.3,12407.97,5,July,2025,28.49%
+ORD10029,22-05-2025,C1265,Customer 255,South,Kerala,Technology,Keyboard,Keyboard,10,48053.32,35235.8,12817.52,20,May,2025,26.67%
+ORD10030,08-01-2025,C1190,Customer 221,East,Odisha,Furniture,Table,Table,8,44675.34,30828.75,13846.59,10,January,2025,30.99%
+ORD10031,27-04-2025,C1027,Customer 135,South,Kerala,Technology,Keyboard,Keyboard,1,2017.76,1595.92,421.84,15,April,2025,20.91%
+ORD10032,07-07-2025,C1130,Customer 271,North,Punjab,Technology,Keyboard,Keyboard,9,33476.85,25348.02,8128.83,20,July,2025,24.28%
+ORD10033,22-09-2025,C1228,Customer 98,South,Tamil Nadu,Office Supplies,Pen,Pen,3,48213.78,38187.16,10026.62,0,September,2025,20.80%
+ORD10034,12-02-2025,C1203,Customer 103,East,West Bengal,Office Supplies,Paper,Paper,2,3548.4,1958.83,1589.57,0,February,2025,44.80%
+ORD10035,26-06-2025,C1153,Customer 165,South,Tamil Nadu,Furniture,Chair,Chair,10,15909.62,8958.59,6951.03,20,June,2025,43.69%
+ORD10036,31-03-2025,C1088,Customer 178,North,Delhi,Technology,Keyboard,Keyboard,3,12110.81,9073.88,3036.93,10,March,2025,25.08%
+ORD10037,24-10-2025,C1189,Customer 44,East,West Bengal,Furniture,Chair,Chair,7,9024.4,5561.12,3463.28,20,October,2025,38.38%
+ORD10038,21-04-2025,C1054,Customer 139,South,Kerala,Technology,Mouse,Mouse,8,16203.08,13972.27,2230.81,0,April,2025,13.77%
+ORD10039,06-02-2025,C1020,Customer 140,East,Odisha,Technology,Mouse,Mouse,9,30407.2,23832.35,6574.85,15,February,2025,21.62%
+ORD10040,13-06-2025,C1197,Customer 287,South,Kerala,Technology,Mouse,Mouse,9,26718.15,18273.81,8444.34,10,June,2025,31.61%
+ORD10041,10-11-2025,C1085,Customer 276,West,Gujarat,Technology,Mouse,Mouse,4,689.37,485.96,203.41,20,November,2025,29.51%
+ORD10042,11-08-2025,C1020,Customer 242,North,Delhi,Furniture,Table,Table,3,3005.63,2693.37,312.26,10,August,2025,10.39%
+ORD10043,26-04-2025,C1109,Customer 129,North,Delhi,Technology,Keyboard,Keyboard,2,5507.14,4039.58,1467.56,20,April,2025,26.65%
+ORD10044,23-01-2025,C1102,Customer 199,South,Tamil Nadu,Furniture,Table,Table,7,44199.76,24307,19892.76,15,January,2025,45.01%
+ORD10045,13-04-2025,C1145,Customer 138,West,Maharashtra,Office Supplies,Paper,Paper,9,11925.85,10493.13,1432.72,20,April,2025,12.01%
+ORD10046,18-02-2025,C1151,Customer 200,West,Maharashtra,Office Supplies,Binder,Binder,6,39009.58,22152.89,16856.69,20,February,2025,43.21%
+ORD10047,06-07-2025,C1182,Customer 167,West,Maharashtra,Office Supplies,Pen,Pen,1,24089.96,20302.86,3787.1,15,July,2025,15.72%
+ORD10048,24-07-2025,C1162,Customer 257,East,Odisha,Office Supplies,Binder,Binder,2,9695.52,8515.34,1180.18,15,July,2025,12.17%
+ORD10049,26-08-2025,C1180,Customer 146,South,Kerala,Technology,Laptop,Laptop,6,13026.79,11449.76,1577.03,20,August,2025,12.11%
+ORD10050,18-05-2025,C1268,Customer 242,East,West Bengal,Technology,Laptop,Laptop,5,5781.8,3429.14,2352.66,15,May,2025,40.69%
+ORD10051,13-05-2025,C1231,Customer 240,North,Delhi,Office Supplies,Binder,Binder,10,6248.85,4253.65,1995.2,20,May,2025,31.93%
+ORD10052,30-07-2025,C1201,Customer 47,South,Karnataka,Office Supplies,Binder,Binder,2,23321.23,19604.61,3716.62,10,July,2025,15.94%
+ORD10053,07-10-2025,C1128,Customer 146,East,Odisha,Technology,Keyboard,Keyboard,5,11160.6,5809.76,5350.84,10,October,2025,47.94%
+ORD10054,12-05-2025,C1154,Customer 285,South,Karnataka,Technology,Mouse,Mouse,1,23785.99,17511.7,6274.29,10,May,2025,26.38%
+ORD10055,11-03-2025,C1132,Customer 261,South,Karnataka,Furniture,Table,Table,8,20445.67,10279.9,10165.77,0,March,2025,49.72%
+ORD10056,17-12-2025,C1112,Customer 203,West,Maharashtra,Furniture,Chair,Chair,1,39503.56,31142.4,8361.16,10,December,2025,21.17%
+ORD10057,25-11-2025,C1243,Customer 76,West,Maharashtra,Technology,Keyboard,Keyboard,2,33521.87,23756.03,9765.84,10,November,2025,29.13%
+ORD10058,16-09-2025,C1013,Customer 272,North,Delhi,Furniture,Table,Table,9,40727.47,26028.23,14699.24,15,September,2025,36.09%
+ORD10059,17-04-2025,C1201,Customer 177,South,Tamil Nadu,Furniture,Table,Table,8,7612.2,3925.83,3686.37,10,April,2025,48.43%
+ORD10060,13-06-2025,C1291,Customer 137,West,Gujarat,Office Supplies,Binder,Binder,9,24679.72,17112.88,7566.84,15,June,2025,30.66%
+ORD10061,11-04-2025,C1188,Customer 68,West,Gujarat,Furniture,Table,Table,4,13287.99,7969.95,5318.04,10,April,2025,40.02%
+ORD10062,09-11-2025,C1199,Customer 120,East,Odisha,Technology,Mouse,Mouse,6,43133.18,34198.29,8934.89,0,November,2025,20.71%
+ORD10063,30-03-2025,C1265,Customer 126,North,Delhi,Technology,Mouse,Mouse,2,553.33,314.36,238.97,10,March,2025,43.19%
+ORD10064,05-11-2025,C1048,Customer 197,South,Tamil Nadu,Furniture,Table,Table,1,6025.99,4365.98,1660.01,15,November,2025,27.55%
+ORD10065,28-08-2025,C1048,Customer 248,South,Karnataka,Furniture,Chair,Chair,1,35308.57,30647.17,4661.4,5,August,2025,13.20%
+ORD10066,16-05-2025,C1201,Customer 176,East,West Bengal,Furniture,Chair,Chair,1,49305.58,30047.09,19258.49,5,May,2025,39.06%
+ORD10067,22-08-2025,C1157,Customer 138,North,Punjab,Furniture,Chair,Chair,3,48833.98,27525.78,21308.2,5,August,2025,43.63%
+ORD10068,21-07-2025,C1101,Customer 165,South,Tamil Nadu,Technology,Keyboard,Keyboard,9,41278.55,21727.91,19550.64,10,July,2025,47.36%
+ORD10069,21-04-2025,C1207,Customer 203,North,Punjab,Technology,Laptop,Laptop,5,39999.36,25691.69,14307.67,0,April,2025,35.77%
+ORD10070,01-04-2025,C1157,Customer 61,North,Delhi,Furniture,Chair,Chair,5,18751.27,12866.05,5885.22,0,April,2025,31.39%
+ORD10071,30-06-2025,C1107,Customer 155,East,Odisha,Office Supplies,Binder,Binder,6,40616.88,34633.46,5983.42,20,June,2025,14.73%
+ORD10072,08-02-2025,C1247,Customer 187,West,Gujarat,Technology,Keyboard,Keyboard,4,1220.31,744.86,475.45,10,February,2025,38.96%
+ORD10073,14-10-2025,C1090,Customer 156,East,West Bengal,Office Supplies,Pen,Pen,9,2378.95,2034.83,344.12,20,October,2025,14.47%
+ORD10074,03-07-2025,C1190,Customer 49,East,Odisha,Furniture,Table,Table,8,2006.33,1554.49,451.84,20,July,2025,22.52%
+ORD10075,23-12-2025,C1139,Customer 93,North,Punjab,Furniture,Table,Table,6,12334.35,8716.63,3617.72,20,December,2025,29.33%
+ORD10076,24-12-2025,C1251,Customer 50,South,Tamil Nadu,Office Supplies,Pen,Pen,9,14841,13164.69,1676.31,10,December,2025,11.30%
+ORD10077,12-06-2025,C1172,Customer 249,North,Delhi,Technology,Laptop,Laptop,8,48816.27,35692.43,13123.84,20,June,2025,26.88%
+ORD10078,19-08-2025,C1168,Customer 84,South,Tamil Nadu,Office Supplies,Paper,Paper,9,34361.09,23549.41,10811.68,10,August,2025,31.46%
+ORD10079,23-07-2025,C1192,Customer 20,East,West Bengal,Technology,Laptop,Laptop,7,39343.58,26075.26,13268.32,20,July,2025,33.72%
+ORD10080,26-06-2025,C1074,Customer 228,South,Tamil Nadu,Technology,Laptop,Laptop,1,1245.84,848.04,397.8,5,June,2025,31.93%
+ORD10081,11-05-2025,C1135,Customer 141,North,Delhi,Office Supplies,Pen,Pen,8,45163.12,27009.34,18153.78,15,May,2025,40.20%
+ORD10082,06-12-2025,C1034,Customer 178,West,Maharashtra,Technology,Mouse,Mouse,2,43667.34,27677.12,15990.22,15,December,2025,36.62%
+ORD10083,19-08-2025,C1110,Customer 27,West,Gujarat,Technology,Mouse,Mouse,6,15073.06,11867.14,3205.92,15,August,2025,21.27%
+ORD10084,04-02-2025,C1249,Customer 107,West,Gujarat,Office Supplies,Binder,Binder,4,48179.54,37755.1,10424.44,15,February,2025,21.64%
+ORD10085,24-11-2025,C1175,Customer 46,North,Delhi,Technology,Keyboard,Keyboard,7,43888.42,31481.86,12406.56,0,November,2025,28.27%
+ORD10086,27-04-2025,C1199,Customer 229,West,Maharashtra,Technology,Laptop,Laptop,2,42469.89,37110.79,5359.1,10,April,2025,12.62%
+ORD10087,14-02-2025,C1088,Customer 295,West,Maharashtra,Office Supplies,Binder,Binder,10,31599.16,22790.29,8808.87,10,February,2025,27.88%
+ORD10088,19-12-2025,C1063,Customer 112,East,West Bengal,Furniture,Chair,Chair,9,14495.71,10253.86,4241.85,20,December,2025,29.26%
+ORD10089,23-11-2025,C1095,Customer 132,North,Delhi,Technology,Keyboard,Keyboard,7,17802.89,14507.39,3295.5,5,November,2025,18.51%
+ORD10090,05-10-2025,C1294,Customer 182,East,West Bengal,Technology,Keyboard,Keyboard,4,16022.13,13744.84,2277.29,5,October,2025,14.21%
+ORD10091,12-03-2025,C1013,Customer 14,South,Kerala,Office Supplies,Binder,Binder,6,4589.73,2472,2117.73,5,March,2025,46.14%
+ORD10092,22-05-2025,C1232,Customer 113,South,Tamil Nadu,Office Supplies,Binder,Binder,1,7321.88,5309.72,2012.16,5,May,2025,27.48%
+ORD10093,06-08-2025,C1114,Customer 178,East,West Bengal,Office Supplies,Paper,Paper,1,42783.67,26837.19,15946.48,15,August,2025,37.27%
+ORD10094,09-12-2025,C1035,Customer 281,South,Kerala,Technology,Keyboard,Keyboard,1,1425.75,1114.63,311.12,5,December,2025,21.82%
+ORD10095,08-03-2025,C1200,Customer 134,South,Kerala,Office Supplies,Binder,Binder,5,40018.65,33451.68,6566.97,15,March,2025,16.41%
+ORD10096,18-07-2025,C1143,Customer 11,West,Gujarat,Office Supplies,Paper,Paper,3,6032.1,5166.54,865.56,15,July,2025,14.35%
+ORD10097,05-04-2025,C1014,Customer 140,South,Tamil Nadu,Technology,Mouse,Mouse,1,1203.09,986.25,216.84,15,April,2025,18.02%
+ORD10098,11-08-2025,C1272,Customer 85,South,Kerala,Furniture,Chair,Chair,3,37629.34,20295.04,17334.3,20,August,2025,46.07%
+ORD10099,07-11-2025,C1079,Customer 179,East,Odisha,Technology,Mouse,Mouse,2,47224.68,38955.43,8269.25,10,November,2025,17.51%
+ORD10100,27-07-2025,C1011,Customer 83,North,Delhi,Office Supplies,Paper,Paper,10,7426.32,6420.46,1005.86,15,July,2025,13.54%
+ORD10101,31-03-2025,C1199,Customer 280,West,Maharashtra,Office Supplies,Paper,Paper,6,693.74,607.06,86.68,20,March,2025,12.49%
+ORD10102,08-11-2025,C1209,Customer 24,West,Gujarat,Furniture,Table,Table,2,4295.89,3862.83,433.06,10,November,2025,10.08%
+ORD10103,04-10-2025,C1186,Customer 272,South,Kerala,Office Supplies,Binder,Binder,5,22506.19,14126.75,8379.44,0,October,2025,37.23%
+ORD10104,02-09-2025,C1222,Customer 88,West,Gujarat,Technology,Laptop,Laptop,5,30748.17,23647.97,7100.2,5,September,2025,23.09%
+ORD10105,11-06-2025,C1196,Customer 290,East,Odisha,Technology,Mouse,Mouse,10,2357.35,2049.88,307.47,5,June,2025,13.04%
+ORD10106,18-02-2025,C1006,Customer 233,East,Odisha,Technology,Keyboard,Keyboard,1,46882.81,34187.26,12695.55,20,February,2025,27.08%
+ORD10107,02-06-2025,C1051,Customer 215,East,Odisha,Office Supplies,Binder,Binder,3,19594.05,13477.94,6116.11,0,June,2025,31.21%
+ORD10108,16-02-2025,C1211,Customer 117,South,Kerala,Furniture,Table,Table,10,37682.63,28716.9,8965.73,10,February,2025,23.79%
+ORD10109,07-06-2025,C1149,Customer 63,West,Maharashtra,Technology,Mouse,Mouse,8,43705.38,30683.47,13021.91,15,June,2025,29.79%
+ORD10110,13-11-2025,C1127,Customer 191,South,Karnataka,Technology,Laptop,Laptop,9,3206.87,2574.42,632.45,5,November,2025,19.72%
+ORD10111,01-04-2025,C1068,Customer 250,East,Odisha,Technology,Laptop,Laptop,9,1992.88,1069.34,923.54,10,April,2025,46.34%
+ORD10112,19-02-2025,C1292,Customer 136,East,West Bengal,Technology,Laptop,Laptop,4,6371.95,5206.17,1165.78,5,February,2025,18.30%
+ORD10113,08-06-2025,C1032,Customer 72,South,Kerala,Furniture,Chair,Chair,4,43654.76,29658.57,13996.19,0,June,2025,32.06%
+ORD10114,07-09-2025,C1153,Customer 297,South,Kerala,Office Supplies,Binder,Binder,5,37259.87,30883.64,6376.23,5,September,2025,17.11%
+ORD10115,26-10-2025,C1080,Customer 272,North,Delhi,Office Supplies,Pen,Pen,5,11562.73,6997.95,4564.78,0,October,2025,39.48%
+ORD10116,15-06-2025,C1144,Customer 158,East,West Bengal,Office Supplies,Pen,Pen,6,32377.93,20782.09,11595.84,10,June,2025,35.81%
+ORD10117,15-06-2025,C1012,Customer 45,East,Odisha,Technology,Mouse,Mouse,3,49854.54,43621.15,6233.39,15,June,2025,12.50%
+ORD10118,13-06-2025,C1067,Customer 97,North,Delhi,Office Supplies,Pen,Pen,6,29387.74,22161.96,7225.78,5,June,2025,24.59%
+ORD10119,04-05-2025,C1031,Customer 118,North,Punjab,Technology,Keyboard,Keyboard,9,8259.77,6256.87,2002.9,0,May,2025,24.25%
+ORD10120,13-03-2025,C1152,Customer 87,North,Punjab,Furniture,Chair,Chair,4,5967.17,4823.25,1143.92,0,March,2025,19.17%
+ORD10121,27-06-2025,C1214,Customer 260,West,Gujarat,Furniture,Table,Table,8,36713.96,31830.58,4883.38,5,June,2025,13.30%
+ORD10122,23-06-2025,C1262,Customer 119,East,West Bengal,Furniture,Table,Table,7,7186.29,4635.41,2550.88,0,June,2025,35.50%
+ORD10123,28-06-2025,C1220,Customer 172,East,Odisha,Technology,Mouse,Mouse,8,21315.29,14237.6,7077.69,5,June,2025,33.20%
+ORD10124,31-07-2025,C1031,Customer 36,South,Karnataka,Technology,Laptop,Laptop,6,32546.97,27441.87,5105.1,15,July,2025,15.69%
+ORD10125,13-12-2025,C1042,Customer 181,West,Gujarat,Technology,Laptop,Laptop,5,9532.56,6827.38,2705.18,15,December,2025,28.38%
+ORD10126,10-07-2025,C1280,Customer 37,East,Odisha,Office Supplies,Binder,Binder,10,10583.07,6654.59,3928.48,5,July,2025,37.12%
+ORD10127,25-11-2025,C1104,Customer 206,West,Gujarat,Office Supplies,Binder,Binder,2,14526.15,8178.11,6348.04,10,November,2025,43.70%
+ORD10128,04-02-2025,C1014,Customer 299,North,Delhi,Office Supplies,Paper,Paper,4,7875.22,6920.24,954.98,20,February,2025,12.13%
+ORD10129,27-11-2025,C1070,Customer 290,South,Kerala,Furniture,Table,Table,3,26161.65,15927.8,10233.85,0,November,2025,39.12%
+ORD10130,14-03-2025,C1178,Customer 147,South,Karnataka,Office Supplies,Binder,Binder,3,12962.16,9490.64,3471.52,5,March,2025,26.78%
+ORD10131,20-08-2025,C1031,Customer 105,East,West Bengal,Office Supplies,Pen,Pen,6,12926.66,6951.25,5975.41,10,August,2025,46.23%
+ORD10132,22-03-2025,C1034,Customer 104,East,West Bengal,Technology,Mouse,Mouse,9,4044.28,3447.65,596.63,20,March,2025,14.75%
+ORD10133,18-02-2025,C1070,Customer 23,East,West Bengal,Technology,Keyboard,Keyboard,6,23984.18,12027.56,11956.62,20,February,2025,49.85%
+ORD10134,12-09-2025,C1215,Customer 252,West,Maharashtra,Technology,Mouse,Mouse,9,34730.44,17922.54,16807.9,5,September,2025,48.40%
+ORD10135,13-07-2025,C1127,Customer 199,North,Delhi,Furniture,Table,Table,6,1097.88,565.39,532.49,10,July,2025,48.50%
+ORD10136,08-05-2025,C1242,Customer 181,South,Kerala,Furniture,Table,Table,5,19091.28,16633.45,2457.83,0,May,2025,12.87%
+ORD10137,31-08-2025,C1075,Customer 260,West,Maharashtra,Furniture,Table,Table,5,39668.58,25292.93,14375.65,20,August,2025,36.24%
+ORD10138,08-01-2025,C1023,Customer 134,East,West Bengal,Technology,Keyboard,Keyboard,9,45168.92,26551.61,18617.31,0,January,2025,41.22%
+ORD10139,09-03-2025,C1206,Customer 10,South,Tamil Nadu,Technology,Mouse,Mouse,2,20854.43,17523.61,3330.82,20,March,2025,15.97%
+ORD10140,26-11-2025,C1241,Customer 211,West,Gujarat,Office Supplies,Binder,Binder,6,44208.97,39492.66,4716.31,10,November,2025,10.67%
+ORD10141,27-04-2025,C1174,Customer 285,West,Gujarat,Furniture,Chair,Chair,1,1954.1,1066.36,887.74,15,April,2025,45.43%
+ORD10142,04-02-2025,C1125,Customer 285,South,Karnataka,Furniture,Table,Table,9,10942.65,9454.84,1487.81,5,February,2025,13.60%
+ORD10143,05-12-2025,C1164,Customer 231,East,West Bengal,Technology,Mouse,Mouse,6,18287.31,13480.39,4806.92,0,December,2025,26.29%
+ORD10144,16-09-2025,C1288,Customer 186,West,Maharashtra,Technology,Keyboard,Keyboard,5,1566.2,1357.37,208.83,15,September,2025,13.33%
+ORD10145,18-01-2025,C1253,Customer 15,West,Maharashtra,Technology,Mouse,Mouse,6,47280.06,27958.96,19321.1,10,January,2025,40.87%
+ORD10146,28-07-2025,C1174,Customer 194,East,Odisha,Office Supplies,Paper,Paper,10,40513.65,33037.57,7476.08,20,July,2025,18.45%
+ORD10147,06-02-2025,C1180,Customer 201,East,West Bengal,Furniture,Table,Table,1,41595.06,33614.09,7980.97,5,February,2025,19.19%
+ORD10148,02-07-2025,C1007,Customer 193,North,Delhi,Furniture,Table,Table,4,49375.83,24974.1,24401.73,0,July,2025,49.42%
+ORD10149,26-02-2025,C1275,Customer 289,East,Odisha,Furniture,Table,Table,8,14821.29,9832.15,4989.14,10,February,2025,33.66%
+ORD10150,23-01-2025,C1040,Customer 213,West,Gujarat,Technology,Laptop,Laptop,5,49301.23,44241.51,5059.72,20,January,2025,10.26%
+ORD10151,19-10-2025,C1251,Customer 61,East,West Bengal,Office Supplies,Binder,Binder,4,25970.31,16021.36,9948.95,5,October,2025,38.31%
+ORD10152,17-01-2025,C1023,Customer 207,South,Kerala,Technology,Laptop,Laptop,4,48031.9,33270.87,14761.03,15,January,2025,30.73%
+ORD10153,10-05-2025,C1271,Customer 128,West,Gujarat,Technology,Laptop,Laptop,10,18777.99,11217.91,7560.08,15,May,2025,40.26%
+ORD10154,24-08-2025,C1007,Customer 11,West,Gujarat,Furniture,Table,Table,2,6986.69,5294.81,1691.88,0,August,2025,24.22%
+ORD10155,02-06-2025,C1051,Customer 192,West,Gujarat,Furniture,Chair,Chair,2,29113.75,24780.79,4332.96,10,June,2025,14.88%
+ORD10156,21-12-2025,C1008,Customer 11,East,Odisha,Office Supplies,Paper,Paper,5,48582.05,39772.03,8810.02,0,December,2025,18.13%
+ORD10157,23-04-2025,C1272,Customer 72,North,Punjab,Technology,Laptop,Laptop,7,1812.33,1626.55,185.78,0,April,2025,10.25%
+ORD10158,29-05-2025,C1109,Customer 167,West,Gujarat,Office Supplies,Pen,Pen,6,21514.44,14328.43,7186.01,20,May,2025,33.40%
+ORD10159,18-05-2025,C1259,Customer 46,North,Punjab,Office Supplies,Binder,Binder,1,45109.97,28560.89,16549.08,15,May,2025,36.69%
+ORD10160,02-02-2025,C1106,Customer 175,North,Delhi,Technology,Keyboard,Keyboard,3,35589.98,25536.7,10053.28,15,February,2025,28.25%
+ORD10161,07-08-2025,C1046,Customer 156,North,Punjab,Office Supplies,Pen,Pen,5,45715.6,35193.64,10521.96,10,August,2025,23.02%
+ORD10162,22-04-2025,C1041,Customer 237,West,Gujarat,Furniture,Table,Table,10,18717.92,12587.15,6130.77,10,April,2025,32.75%
+ORD10163,06-11-2025,C1147,Customer 133,North,Delhi,Office Supplies,Paper,Paper,1,40593.84,22284.11,18309.73,20,November,2025,45.10%
+ORD10164,19-01-2025,C1250,Customer 65,North,Punjab,Office Supplies,Pen,Pen,4,17888.18,12700.97,5187.21,20,January,2025,29.00%
+ORD10165,20-04-2025,C1058,Customer 148,East,West Bengal,Technology,Laptop,Laptop,1,40451.6,21217.58,19234.02,20,April,2025,47.55%
+ORD10166,30-08-2025,C1191,Customer 95,North,Delhi,Technology,Mouse,Mouse,3,42466.24,34792.12,7674.12,10,August,2025,18.07%
+ORD10167,25-03-2025,C1258,Customer 122,West,Maharashtra,Office Supplies,Pen,Pen,4,22559.44,17725.05,4834.39,15,March,2025,21.43%
+ORD10168,26-06-2025,C1293,Customer 204,West,Gujarat,Furniture,Chair,Chair,8,3704.1,1958.81,1745.29,15,June,2025,47.12%
+ORD10169,09-01-2025,C1265,Customer 118,South,Karnataka,Office Supplies,Pen,Pen,10,37270.62,29456.62,7814,20,January,2025,20.97%
+ORD10170,04-10-2025,C1020,Customer 43,West,Gujarat,Office Supplies,Paper,Paper,7,22755.38,13387.73,9367.65,5,October,2025,41.17%
+ORD10171,16-02-2025,C1049,Customer 93,South,Kerala,Technology,Keyboard,Keyboard,9,3118.11,2698.92,419.19,10,February,2025,13.44%
+ORD10172,24-06-2025,C1208,Customer 209,South,Karnataka,Technology,Laptop,Laptop,2,41659.14,29807,11852.14,5,June,2025,28.45%
+ORD10173,16-08-2025,C1148,Customer 237,North,Delhi,Furniture,Table,Table,7,2593.58,2243.49,350.09,0,August,2025,13.50%
+ORD10174,09-11-2025,C1085,Customer 264,South,Kerala,Technology,Keyboard,Keyboard,1,21633.27,13578.51,8054.76,10,November,2025,37.23%
+ORD10175,17-05-2025,C1023,Customer 162,South,Kerala,Furniture,Table,Table,1,30381.76,19671.89,10709.87,0,May,2025,35.25%
+ORD10176,18-07-2025,C1075,Customer 29,North,Punjab,Furniture,Chair,Chair,6,49396.07,42948.4,6447.67,0,July,2025,13.05%
+ORD10177,16-10-2025,C1236,Customer 11,South,Karnataka,Office Supplies,Pen,Pen,1,38864.38,34519.53,4344.85,10,October,2025,11.18%
+ORD10178,05-02-2025,C1026,Customer 2,West,Gujarat,Technology,Laptop,Laptop,10,48884.17,43180.94,5703.23,0,February,2025,11.67%
+ORD10179,04-03-2025,C1116,Customer 17,East,West Bengal,Furniture,Chair,Chair,5,2335.31,1734.75,600.56,15,March,2025,25.72%
+ORD10180,18-12-2025,C1117,Customer 50,West,Maharashtra,Furniture,Chair,Chair,2,32939.88,27313.7,5626.18,10,December,2025,17.08%
+ORD10181,11-01-2025,C1025,Customer 280,North,Delhi,Technology,Laptop,Laptop,7,45519.96,39141.11,6378.85,5,January,2025,14.01%
+ORD10182,06-12-2025,C1080,Customer 235,West,Gujarat,Technology,Mouse,Mouse,1,39545.45,30979.13,8566.32,0,December,2025,21.66%
+ORD10183,11-09-2025,C1206,Customer 258,South,Karnataka,Office Supplies,Paper,Paper,7,47849.13,26084.31,21764.82,0,September,2025,45.49%
+ORD10184,01-12-2025,C1029,Customer 258,South,Karnataka,Office Supplies,Binder,Binder,9,19290.36,10362.93,8927.43,5,December,2025,46.28%
+ORD10185,16-07-2025,C1228,Customer 147,South,Kerala,Furniture,Table,Table,6,20595.11,12698.82,7896.29,0,July,2025,38.34%
+ORD10186,30-05-2025,C1266,Customer 187,East,West Bengal,Office Supplies,Pen,Pen,7,10375.1,5876.45,4498.65,10,May,2025,43.36%
+ORD10187,02-09-2025,C1236,Customer 137,East,West Bengal,Furniture,Table,Table,2,39108.69,25117.53,13991.16,0,September,2025,35.78%
+ORD10188,15-04-2025,C1251,Customer 207,East,Odisha,Furniture,Table,Table,9,19133.01,17170.42,1962.59,0,April,2025,10.26%
+ORD10189,06-12-2025,C1234,Customer 251,East,West Bengal,Office Supplies,Binder,Binder,9,32549.31,20932.42,11616.89,20,December,2025,35.69%
+ORD10190,01-12-2025,C1248,Customer 203,East,West Bengal,Technology,Keyboard,Keyboard,6,30408.39,16335.86,14072.53,20,December,2025,46.28%
+ORD10191,28-05-2025,C1158,Customer 178,South,Kerala,Technology,Keyboard,Keyboard,10,41746.29,28541.08,13205.21,20,May,2025,31.63%
+ORD10192,12-03-2025,C1083,Customer 182,East,Odisha,Office Supplies,Pen,Pen,9,39515.42,25123.93,14391.49,15,March,2025,36.42%
+ORD10193,10-04-2025,C1023,Customer 81,East,West Bengal,Furniture,Chair,Chair,2,7388.24,3907.18,3481.06,15,April,2025,47.12%
+ORD10194,13-10-2025,C1004,Customer 264,South,Tamil Nadu,Office Supplies,Pen,Pen,6,2124.24,1387.13,737.11,5,October,2025,34.70%
+ORD10195,18-06-2025,C1249,Customer 36,West,Maharashtra,Technology,Laptop,Laptop,3,48915.62,25175.28,23740.34,15,June,2025,48.53%
+ORD10196,07-01-2025,C1118,Customer 145,North,Delhi,Technology,Keyboard,Keyboard,7,16957.96,15124.86,1833.1,20,January,2025,10.81%
+ORD10197,23-01-2025,C1017,Customer 54,South,Karnataka,Office Supplies,Binder,Binder,7,48337.8,31381.64,16956.16,20,January,2025,35.08%
+ORD10198,31-12-2025,C1079,Customer 60,West,Gujarat,Office Supplies,Binder,Binder,3,4743.75,2635.8,2107.95,15,December,2025,44.44%
+ORD10199,12-02-2025,C1261,Customer 284,East,West Bengal,Furniture,Chair,Chair,5,37014.41,32126.74,4887.67,10,February,2025,13.20%
+ORD10200,20-09-2025,C1212,Customer 157,West,Gujarat,Furniture,Table,Table,8,10451.06,5652.6,4798.46,0,September,2025,45.91%
+ORD10201,17-09-2025,C1097,Customer 150,North,Punjab,Furniture,Table,Table,3,21274.7,12532.21,8742.49,20,September,2025,41.09%
+ORD10202,01-04-2025,C1075,Customer 46,South,Kerala,Technology,Mouse,Mouse,3,19671.52,16189.21,3482.31,20,April,2025,17.70%
+ORD10203,13-11-2025,C1234,Customer 30,North,Delhi,Furniture,Chair,Chair,9,29313.03,22136.04,7176.99,0,November,2025,24.48%
+ORD10204,27-01-2025,C1267,Customer 260,East,Odisha,Technology,Laptop,Laptop,8,26719.12,16704.29,10014.83,10,January,2025,37.48%
+ORD10205,22-03-2025,C1149,Customer 52,North,Delhi,Office Supplies,Paper,Paper,10,43240.51,28419.12,14821.39,20,March,2025,34.28%
+ORD10206,28-08-2025,C1293,Customer 275,East,Odisha,Furniture,Chair,Chair,7,46531.89,25937.2,20594.69,20,August,2025,44.26%
+ORD10207,18-01-2025,C1032,Customer 25,East,West Bengal,Furniture,Table,Table,3,46340.52,25524.16,20816.36,0,January,2025,44.92%
+ORD10208,04-12-2025,C1009,Customer 198,South,Kerala,Technology,Laptop,Laptop,8,36578.67,20307.29,16271.38,5,December,2025,44.48%
+ORD10209,03-04-2025,C1127,Customer 277,South,Tamil Nadu,Furniture,Chair,Chair,6,43114.61,35275.55,7839.06,5,April,2025,18.18%
+ORD10210,06-02-2025,C1236,Customer 68,South,Karnataka,Technology,Laptop,Laptop,10,37753.16,29045.92,8707.24,5,February,2025,23.06%
+ORD10211,29-08-2025,C1273,Customer 204,East,West Bengal,Furniture,Table,Table,7,14999.02,11930.49,3068.53,0,August,2025,20.46%
+ORD10212,14-10-2025,C1055,Customer 70,East,West Bengal,Furniture,Chair,Chair,3,3701.96,2205.34,1496.62,5,October,2025,40.43%
+ORD10213,15-08-2025,C1119,Customer 12,East,Odisha,Furniture,Chair,Chair,5,11119.03,7391.79,3727.24,20,August,2025,33.52%
+ORD10214,06-09-2025,C1289,Customer 37,North,Punjab,Technology,Laptop,Laptop,5,34238.02,17846.23,16391.79,20,September,2025,47.88%
+ORD10215,25-12-2025,C1224,Customer 299,West,Maharashtra,Technology,Mouse,Mouse,4,41731.32,29672.64,12058.68,20,December,2025,28.90%
+ORD10216,27-10-2025,C1283,Customer 18,North,Delhi,Technology,Laptop,Laptop,2,11434.99,8825.62,2609.37,10,October,2025,22.82%
+ORD10217,06-07-2025,C1000,Customer 193,East,West Bengal,Technology,Keyboard,Keyboard,2,37455.24,28930.04,8525.2,10,July,2025,22.76%
+ORD10218,26-06-2025,C1260,Customer 48,East,West Bengal,Office Supplies,Paper,Paper,5,49313.79,38342.32,10971.47,20,June,2025,22.25%
+ORD10219,29-01-2025,C1125,Customer 63,South,Tamil Nadu,Office Supplies,Paper,Paper,9,28600.46,24547.17,4053.29,20,January,2025,14.17%
+ORD10220,30-07-2025,C1127,Customer 10,West,Gujarat,Furniture,Table,Table,2,8560.94,7052.47,1508.47,5,July,2025,17.62%
+ORD10221,19-05-2025,C1215,Customer 230,East,Odisha,Furniture,Chair,Chair,8,15635.42,9369.74,6265.68,20,May,2025,40.07%
+ORD10222,09-10-2025,C1249,Customer 94,South,Kerala,Office Supplies,Paper,Paper,5,11100.11,5786.95,5313.16,10,October,2025,47.87%
+ORD10223,12-08-2025,C1173,Customer 293,West,Maharashtra,Technology,Laptop,Laptop,7,3088.79,2090.66,998.13,5,August,2025,32.31%
+ORD10224,07-05-2025,C1246,Customer 162,North,Delhi,Furniture,Table,Table,1,17226.11,12896.6,4329.51,15,May,2025,25.13%
+ORD10225,24-07-2025,C1058,Customer 118,South,Karnataka,Furniture,Table,Table,5,7283.66,4117.5,3166.16,20,July,2025,43.47%
+ORD10226,17-12-2025,C1062,Customer 167,East,Odisha,Office Supplies,Binder,Binder,6,19879.33,12916.94,6962.39,0,December,2025,35.02%
+ORD10227,05-02-2025,C1083,Customer 179,West,Maharashtra,Furniture,Table,Table,5,6611.4,3620.63,2990.77,15,February,2025,45.24%
+ORD10228,01-04-2025,C1026,Customer 103,West,Gujarat,Office Supplies,Pen,Pen,2,36737.37,28723.32,8014.05,0,April,2025,21.81%
+ORD10229,28-08-2025,C1026,Customer 192,East,West Bengal,Furniture,Table,Table,4,16627.44,14248.65,2378.79,10,August,2025,14.31%
+ORD10230,04-11-2025,C1292,Customer 198,West,Maharashtra,Technology,Laptop,Laptop,10,23638.4,12298.6,11339.8,0,November,2025,47.97%
+ORD10231,25-01-2025,C1046,Customer 185,West,Gujarat,Technology,Laptop,Laptop,5,6450.88,5221.49,1229.39,15,January,2025,19.06%
+ORD10232,29-09-2025,C1059,Customer 226,East,West Bengal,Furniture,Table,Table,5,28284.19,14309.9,13974.29,10,September,2025,49.41%
+ORD10233,20-05-2025,C1145,Customer 203,North,Delhi,Furniture,Chair,Chair,3,20921.82,11301.9,9619.92,15,May,2025,45.98%
+ORD10234,10-03-2025,C1192,Customer 229,West,Maharashtra,Furniture,Chair,Chair,9,36992.73,21245.64,15747.09,15,March,2025,42.57%
+ORD10235,09-05-2025,C1216,Customer 210,East,West Bengal,Office Supplies,Binder,Binder,1,36878.05,31108.59,5769.46,0,May,2025,15.64%
+ORD10236,17-01-2025,C1268,Customer 191,North,Punjab,Technology,Laptop,Laptop,8,37622.52,24088.72,13533.8,5,January,2025,35.97%
+ORD10237,22-11-2025,C1011,Customer 295,South,Kerala,Technology,Keyboard,Keyboard,8,38636.34,30330.48,8305.86,15,November,2025,21.50%
+ORD10238,25-10-2025,C1189,Customer 156,West,Gujarat,Office Supplies,Pen,Pen,8,9242.13,7590.22,1651.91,0,October,2025,17.87%
+ORD10239,25-01-2025,C1267,Customer 15,South,Tamil Nadu,Furniture,Chair,Chair,6,1041.44,563.17,478.27,0,January,2025,45.92%
+ORD10240,25-08-2025,C1143,Customer 281,North,Delhi,Technology,Keyboard,Keyboard,9,12472.88,6913.05,5559.83,15,August,2025,44.58%
+ORD10241,07-05-2025,C1194,Customer 27,West,Gujarat,Technology,Mouse,Mouse,10,40670.17,27621.47,13048.7,10,May,2025,32.08%
+ORD10242,11-01-2025,C1229,Customer 277,South,Karnataka,Technology,Laptop,Laptop,4,44873.79,32158.01,12715.78,15,January,2025,28.34%
+ORD10243,03-01-2025,C1066,Customer 184,North,Delhi,Furniture,Chair,Chair,2,41022.5,32005.7,9016.8,5,January,2025,21.98%
+ORD10244,08-07-2025,C1157,Customer 58,West,Maharashtra,Technology,Laptop,Laptop,7,19847.91,10848.28,8999.63,20,July,2025,45.34%
+ORD10245,25-05-2025,C1238,Customer 90,West,Maharashtra,Technology,Keyboard,Keyboard,6,23382.18,20421.8,2960.38,0,May,2025,12.66%
+ORD10246,08-12-2025,C1119,Customer 39,North,Punjab,Technology,Mouse,Mouse,1,14879.36,12040.83,2838.53,15,December,2025,19.08%
+ORD10247,23-06-2025,C1192,Customer 141,North,Punjab,Office Supplies,Binder,Binder,5,8807.82,5155.61,3652.21,0,June,2025,41.47%
+ORD10248,04-03-2025,C1283,Customer 215,West,Maharashtra,Office Supplies,Binder,Binder,3,40940.09,28616.15,12323.94,20,March,2025,30.10%
+ORD10249,25-10-2025,C1238,Customer 183,North,Punjab,Technology,Laptop,Laptop,8,17015.32,10873.9,6141.42,0,October,2025,36.09%
+ORD10250,14-12-2025,C1019,Customer 256,West,Gujarat,Technology,Mouse,Mouse,8,35946.52,25125.89,10820.63,20,December,2025,30.10%
+ORD10251,30-07-2025,C1128,Customer 234,South,Kerala,Furniture,Chair,Chair,4,17722.79,13268.85,4453.94,0,July,2025,25.13%
+ORD10252,29-01-2025,C1212,Customer 243,West,Maharashtra,Technology,Laptop,Laptop,10,37894.65,28207.43,9687.22,20,January,2025,25.56%
+ORD10253,18-11-2025,C1179,Customer 296,West,Gujarat,Office Supplies,Pen,Pen,5,37496.86,21332.2,16164.66,15,November,2025,43.11%
+ORD10254,03-07-2025,C1278,Customer 8,West,Gujarat,Furniture,Table,Table,7,29467.77,24678.97,4788.8,0,July,2025,16.25%
+ORD10255,16-03-2025,C1259,Customer 26,South,Karnataka,Office Supplies,Binder,Binder,10,8681.13,5875.31,2805.82,10,March,2025,32.32%
+ORD10256,07-12-2025,C1164,Customer 71,North,Punjab,Technology,Keyboard,Keyboard,8,48977.13,32213.94,16763.19,20,December,2025,34.23%
+ORD10257,15-12-2025,C1061,Customer 7,South,Kerala,Furniture,Chair,Chair,8,43744.01,24876.93,18867.08,10,December,2025,43.13%
+ORD10258,15-03-2025,C1047,Customer 107,North,Punjab,Office Supplies,Pen,Pen,8,29513.14,20672.42,8840.72,5,March,2025,29.96%
+ORD10259,12-03-2025,C1168,Customer 72,West,Gujarat,Office Supplies,Paper,Paper,7,12155.63,9792.91,2362.72,0,March,2025,19.44%
+ORD10260,18-01-2025,C1152,Customer 197,East,Odisha,Office Supplies,Pen,Pen,6,31897.58,21506.38,10391.2,20,January,2025,32.58%
+ORD10261,31-12-2025,C1185,Customer 207,South,Kerala,Furniture,Chair,Chair,3,40225.46,23232.14,16993.32,20,December,2025,42.25%
+ORD10262,10-02-2025,C1088,Customer 201,South,Tamil Nadu,Furniture,Table,Table,1,20032.32,16281.09,3751.23,15,February,2025,18.73%
+ORD10263,13-11-2025,C1259,Customer 2,West,Maharashtra,Office Supplies,Binder,Binder,10,31972.66,21638.85,10333.81,5,November,2025,32.32%
+ORD10264,27-10-2025,C1196,Customer 109,South,Kerala,Furniture,Table,Table,2,42206.37,35631.31,6575.06,0,October,2025,15.58%
+ORD10265,24-10-2025,C1269,Customer 249,East,West Bengal,Office Supplies,Binder,Binder,3,2531.47,2045.75,485.72,0,October,2025,19.19%
+ORD10266,28-02-2025,C1015,Customer 296,West,Maharashtra,Furniture,Table,Table,2,37153.01,31398.45,5754.56,15,February,2025,15.49%
+ORD10267,13-02-2025,C1149,Customer 9,South,Kerala,Office Supplies,Binder,Binder,7,42611.31,26699.45,15911.86,10,February,2025,37.34%
+ORD10268,12-02-2025,C1054,Customer 90,North,Delhi,Furniture,Table,Table,6,7993.7,6212.52,1781.18,5,February,2025,22.28%
+ORD10269,04-04-2025,C1261,Customer 42,West,Gujarat,Technology,Mouse,Mouse,10,12923.83,6488.53,6435.3,10,April,2025,49.79%
+ORD10270,03-08-2025,C1091,Customer 145,West,Gujarat,Technology,Laptop,Laptop,7,19874.8,17171.86,2702.94,5,August,2025,13.60%
+ORD10271,19-01-2025,C1085,Customer 234,East,Odisha,Furniture,Table,Table,3,10686.85,6714.16,3972.69,5,January,2025,37.17%
+ORD10272,20-08-2025,C1285,Customer 111,East,Odisha,Technology,Laptop,Laptop,3,39792.24,27370.46,12421.78,10,August,2025,31.22%
+ORD10273,14-05-2025,C1290,Customer 192,West,Maharashtra,Technology,Mouse,Mouse,4,4736.18,3874.07,862.11,10,May,2025,18.20%
+ORD10274,29-09-2025,C1064,Customer 297,North,Punjab,Furniture,Table,Table,3,47158.82,31905.1,15253.72,5,September,2025,32.35%
+ORD10275,24-09-2025,C1027,Customer 65,North,Punjab,Technology,Mouse,Mouse,5,44686.9,37422.73,7264.17,10,September,2025,16.26%
+ORD10276,19-03-2025,C1286,Customer 10,East,West Bengal,Technology,Laptop,Laptop,5,32040.73,18018.6,14022.13,15,March,2025,43.76%
+ORD10277,24-02-2025,C1270,Customer 167,North,Delhi,Furniture,Chair,Chair,4,18985.32,16646.5,2338.82,0,February,2025,12.32%
+ORD10278,08-05-2025,C1194,Customer 147,North,Punjab,Technology,Mouse,Mouse,7,6472.6,5247.85,1224.75,0,May,2025,18.92%
+ORD10279,18-05-2025,C1172,Customer 225,West,Gujarat,Furniture,Table,Table,6,47969.23,28787.38,19181.85,0,May,2025,39.99%
+ORD10280,28-08-2025,C1236,Customer 193,North,Punjab,Technology,Laptop,Laptop,10,17631.51,13639.29,3992.22,10,August,2025,22.64%
+ORD10281,07-12-2025,C1142,Customer 163,North,Punjab,Office Supplies,Binder,Binder,9,21654.35,12773.91,8880.44,20,December,2025,41.01%
+ORD10282,11-09-2025,C1109,Customer 251,North,Delhi,Furniture,Chair,Chair,1,30182.62,17816.48,12366.14,10,September,2025,40.97%
+ORD10283,06-03-2025,C1271,Customer 59,West,Gujarat,Technology,Mouse,Mouse,8,19815.43,14958.47,4856.96,0,March,2025,24.51%
+ORD10284,28-10-2025,C1231,Customer 148,West,Maharashtra,Technology,Keyboard,Keyboard,1,2360.65,2087.07,273.58,20,October,2025,11.59%
+ORD10285,30-08-2025,C1255,Customer 213,West,Maharashtra,Office Supplies,Paper,Paper,10,34246.21,26879.69,7366.52,20,August,2025,21.51%
+ORD10286,20-06-2025,C1263,Customer 226,South,Karnataka,Technology,Laptop,Laptop,9,41629.37,37163.98,4465.39,20,June,2025,10.73%
+ORD10287,13-02-2025,C1196,Customer 123,East,Odisha,Technology,Laptop,Laptop,7,18056.32,12089.6,5966.72,15,February,2025,33.05%
+ORD10288,02-06-2025,C1122,Customer 87,South,Tamil Nadu,Furniture,Table,Table,4,49675.94,33334.17,16341.77,20,June,2025,32.90%
+ORD10289,17-04-2025,C1276,Customer 298,East,West Bengal,Technology,Mouse,Mouse,4,13547.58,11216.96,2330.62,5,April,2025,17.20%
+ORD10290,27-07-2025,C1155,Customer 48,West,Gujarat,Technology,Laptop,Laptop,2,35382.45,30716.32,4666.13,10,July,2025,13.19%
+ORD10291,09-06-2025,C1131,Customer 77,North,Delhi,Office Supplies,Paper,Paper,3,19025.85,13182.29,5843.56,5,June,2025,30.71%
+ORD10292,25-08-2025,C1163,Customer 230,East,West Bengal,Technology,Mouse,Mouse,2,45388.63,38456.2,6932.43,0,August,2025,15.27%
+ORD10293,24-04-2025,C1007,Customer 81,West,Gujarat,Furniture,Table,Table,7,20423.78,13551.64,6872.14,5,April,2025,33.65%
+ORD10294,04-03-2025,C1243,Customer 67,West,Maharashtra,Office Supplies,Pen,Pen,8,49448.15,42257.49,7190.66,5,March,2025,14.54%
+ORD10295,24-03-2025,C1053,Customer 109,East,Odisha,Technology,Laptop,Laptop,4,21776.63,13413.61,8363.02,0,March,2025,38.40%
+ORD10296,30-03-2025,C1109,Customer 42,North,Punjab,Technology,Mouse,Mouse,9,42237.24,35197.02,7040.22,20,March,2025,16.67%
+ORD10297,30-09-2025,C1142,Customer 186,North,Punjab,Office Supplies,Binder,Binder,3,36249.3,26690.39,9558.91,0,September,2025,26.37%
+ORD10298,04-06-2025,C1209,Customer 17,South,Karnataka,Technology,Keyboard,Keyboard,7,18570.26,15211.13,3359.13,5,June,2025,18.09%
+ORD10299,11-10-2025,C1263,Customer 279,North,Punjab,Furniture,Chair,Chair,2,21498.59,13727.07,7771.52,10,October,2025,36.15%
+ORD10300,16-11-2025,C1093,Customer 107,North,Delhi,Office Supplies,Paper,Paper,2,22181.55,12811.35,9370.2,10,November,2025,42.24%
+ORD10301,19-05-2025,C1260,Customer 7,South,Karnataka,Technology,Keyboard,Keyboard,7,13781.63,8139.8,5641.83,0,May,2025,40.94%
+ORD10302,29-09-2025,C1200,Customer 13,South,Tamil Nadu,Office Supplies,Paper,Paper,6,18388.53,13645.84,4742.69,20,September,2025,25.79%
+ORD10303,18-09-2025,C1188,Customer 35,West,Gujarat,Office Supplies,Pen,Pen,3,39814.62,22972.87,16841.75,5,September,2025,42.30%
+ORD10304,07-04-2025,C1229,Customer 107,South,Karnataka,Furniture,Table,Table,7,1247.06,1070.61,176.45,15,April,2025,14.15%
+ORD10305,29-06-2025,C1058,Customer 224,West,Gujarat,Furniture,Table,Table,3,21633.26,13596.79,8036.47,15,June,2025,37.15%
+ORD10306,14-12-2025,C1279,Customer 100,North,Delhi,Technology,Mouse,Mouse,1,6531.99,3435.55,3096.44,5,December,2025,47.40%
+ORD10307,16-08-2025,C1091,Customer 251,East,West Bengal,Furniture,Table,Table,6,28430.79,17047.2,11383.59,0,August,2025,40.04%
+ORD10308,04-08-2025,C1095,Customer 195,West,Gujarat,Furniture,Chair,Chair,8,13694.78,9492.64,4202.14,15,August,2025,30.68%
+ORD10309,07-05-2025,C1003,Customer 254,South,Karnataka,Technology,Keyboard,Keyboard,6,3434.76,2010.87,1423.89,15,May,2025,41.46%
+ORD10310,22-03-2025,C1164,Customer 28,North,Delhi,Technology,Keyboard,Keyboard,6,1161.26,605.48,555.78,0,March,2025,47.86%
+ORD10311,31-10-2025,C1056,Customer 92,West,Gujarat,Technology,Keyboard,Keyboard,3,39843.05,30503.55,9339.5,10,October,2025,23.44%
+ORD10312,27-01-2025,C1281,Customer 286,East,Odisha,Technology,Laptop,Laptop,4,13464.97,8374.46,5090.51,5,January,2025,37.81%
+ORD10313,12-05-2025,C1224,Customer 261,South,Kerala,Technology,Mouse,Mouse,4,15750.32,10578.04,5172.28,10,May,2025,32.84%
+ORD10314,20-10-2025,C1001,Customer 62,North,Punjab,Office Supplies,Binder,Binder,6,43897.74,37327.41,6570.33,20,October,2025,14.97%
+ORD10315,13-08-2025,C1268,Customer 234,West,Gujarat,Technology,Laptop,Laptop,9,24431.76,20366.89,4064.87,0,August,2025,16.64%
+ORD10316,26-12-2025,C1232,Customer 10,West,Maharashtra,Furniture,Chair,Chair,6,4818.08,4137.27,680.81,0,December,2025,14.13%
+ORD10317,25-12-2025,C1028,Customer 69,East,Odisha,Office Supplies,Paper,Paper,8,19792.73,11418.28,8374.45,0,December,2025,42.31%
+ORD10318,22-07-2025,C1267,Customer 255,South,Kerala,Furniture,Table,Table,4,13224.24,7845.78,5378.46,0,July,2025,40.67%
+ORD10319,22-06-2025,C1126,Customer 141,South,Karnataka,Technology,Mouse,Mouse,1,23547.8,20240.96,3306.84,20,June,2025,14.04%
+ORD10320,12-04-2025,C1179,Customer 149,South,Tamil Nadu,Furniture,Chair,Chair,8,16559.82,10567.52,5992.3,20,April,2025,36.19%
+ORD10321,16-04-2025,C1145,Customer 163,West,Maharashtra,Office Supplies,Paper,Paper,10,25254.9,19593.86,5661.04,0,April,2025,22.42%
+ORD10322,18-08-2025,C1163,Customer 99,West,Maharashtra,Furniture,Chair,Chair,10,4360.99,3389.11,971.88,20,August,2025,22.29%
+ORD10323,23-07-2025,C1191,Customer 218,South,Kerala,Office Supplies,Binder,Binder,4,45390.98,25251.64,20139.34,5,July,2025,44.37%
+ORD10324,14-10-2025,C1111,Customer 284,East,West Bengal,Technology,Mouse,Mouse,9,40088.04,31351.98,8736.06,15,October,2025,21.79%
+ORD10325,22-09-2025,C1295,Customer 1,East,Odisha,Office Supplies,Binder,Binder,6,23115.16,18117.33,4997.83,0,September,2025,21.62%
+ORD10326,27-01-2025,C1300,Customer 85,East,Odisha,Furniture,Chair,Chair,5,27148.08,14168.18,12979.9,0,January,2025,47.81%
+ORD10327,11-07-2025,C1008,Customer 13,South,Tamil Nadu,Office Supplies,Paper,Paper,2,23122.17,20332.88,2789.29,15,July,2025,12.06%
+ORD10328,21-12-2025,C1157,Customer 175,South,Kerala,Furniture,Table,Table,2,20218.4,11169.5,9048.9,0,December,2025,44.76%
+ORD10329,22-09-2025,C1093,Customer 54,East,West Bengal,Technology,Mouse,Mouse,7,34830.48,27916.6,6913.88,10,September,2025,19.85%
+ORD10330,12-08-2025,C1095,Customer 120,South,Kerala,Technology,Mouse,Mouse,10,23011.44,14363.53,8647.91,0,August,2025,37.58%
+ORD10331,14-10-2025,C1005,Customer 280,West,Maharashtra,Furniture,Table,Table,3,44154.35,28259.56,15894.79,5,October,2025,36.00%
+ORD10332,26-01-2025,C1132,Customer 120,East,Odisha,Technology,Laptop,Laptop,2,11028.83,7077.2,3951.63,20,January,2025,35.83%
+ORD10333,10-10-2025,C1003,Customer 245,North,Delhi,Furniture,Table,Table,10,34815.6,25223.05,9592.55,10,October,2025,27.55%
+ORD10334,24-08-2025,C1011,Customer 236,South,Karnataka,Office Supplies,Paper,Paper,2,38704.04,27648.48,11055.56,20,August,2025,28.56%
+ORD10335,11-09-2025,C1064,Customer 135,East,Odisha,Office Supplies,Binder,Binder,2,15936.91,8074.54,7862.37,20,September,2025,49.33%
+ORD10336,29-07-2025,C1113,Customer 182,North,Delhi,Technology,Mouse,Mouse,4,24503.69,18340.83,6162.86,5,July,2025,25.15%
+ORD10337,19-07-2025,C1016,Customer 212,East,Odisha,Technology,Laptop,Laptop,6,37845.37,31340.59,6504.78,15,July,2025,17.19%
+ORD10338,14-07-2025,C1088,Customer 76,North,Delhi,Office Supplies,Pen,Pen,4,3997.83,2553.21,1444.62,10,July,2025,36.14%
+ORD10339,28-07-2025,C1243,Customer 41,North,Delhi,Technology,Keyboard,Keyboard,7,35386.23,21362.77,14023.46,0,July,2025,39.63%
+ORD10340,03-11-2025,C1050,Customer 66,South,Kerala,Technology,Keyboard,Keyboard,3,45845.93,30768.82,15077.11,15,November,2025,32.89%
+ORD10341,02-02-2025,C1082,Customer 100,West,Gujarat,Technology,Laptop,Laptop,6,37582.4,23474.59,14107.81,20,February,2025,37.54%
+ORD10342,19-02-2025,C1089,Customer 41,South,Karnataka,Office Supplies,Paper,Paper,9,10473.46,5356.58,5116.88,20,February,2025,48.86%
+ORD10343,16-05-2025,C1051,Customer 204,North,Delhi,Office Supplies,Pen,Pen,3,45066.05,39072.39,5993.66,5,May,2025,13.30%
+ORD10344,16-04-2025,C1185,Customer 123,East,West Bengal,Technology,Keyboard,Keyboard,5,36454.19,26924.9,9529.29,15,April,2025,26.14%
+ORD10345,10-12-2025,C1191,Customer 42,South,Karnataka,Technology,Laptop,Laptop,6,5617.88,4456.7,1161.18,5,December,2025,20.67%
+ORD10346,14-11-2025,C1136,Customer 37,East,Odisha,Furniture,Chair,Chair,5,13244.08,11262.51,1981.57,20,November,2025,14.96%
+ORD10347,08-08-2025,C1090,Customer 176,North,Punjab,Office Supplies,Pen,Pen,1,35882.22,20211.63,15670.59,10,August,2025,43.67%
+ORD10348,27-12-2025,C1216,Customer 61,East,West Bengal,Furniture,Chair,Chair,10,20740.11,14360.07,6380.04,10,December,2025,30.76%
+ORD10349,06-03-2025,C1154,Customer 113,North,Punjab,Technology,Keyboard,Keyboard,7,28733.14,15196.53,13536.61,0,March,2025,47.11%
+ORD10350,07-03-2025,C1197,Customer 189,North,Delhi,Technology,Laptop,Laptop,4,47378.23,42147.66,5230.57,10,March,2025,11.04%
+ORD10351,28-08-2025,C1249,Customer 169,South,Tamil Nadu,Technology,Laptop,Laptop,4,19785.92,13492.33,6293.59,20,August,2025,31.81%
+ORD10352,02-12-2025,C1169,Customer 180,East,Odisha,Furniture,Chair,Chair,6,41960.15,26798.95,15161.2,0,December,2025,36.13%
+ORD10353,29-07-2025,C1119,Customer 168,North,Delhi,Technology,Mouse,Mouse,4,29492.28,19641.71,9850.57,20,July,2025,33.40%
+ORD10354,16-06-2025,C1081,Customer 57,West,Gujarat,Furniture,Table,Table,10,44098.2,28823.88,15274.32,5,June,2025,34.64%
+ORD10355,24-01-2025,C1133,Customer 261,South,Tamil Nadu,Office Supplies,Pen,Pen,5,36127.28,20283.73,15843.55,20,January,2025,43.85%
+ORD10356,19-12-2025,C1060,Customer 206,South,Karnataka,Furniture,Table,Table,7,1128.74,733.96,394.78,0,December,2025,34.98%
+ORD10357,21-08-2025,C1013,Customer 81,West,Maharashtra,Office Supplies,Binder,Binder,9,49804.77,43140.65,6664.12,0,August,2025,13.38%
+ORD10358,28-07-2025,C1097,Customer 148,East,Odisha,Furniture,Table,Table,9,18337.13,12877.62,5459.51,15,July,2025,29.77%
+ORD10359,12-02-2025,C1087,Customer 196,South,Tamil Nadu,Office Supplies,Paper,Paper,4,36232.99,31319.8,4913.19,10,February,2025,13.56%
+ORD10360,12-01-2025,C1253,Customer 69,North,Delhi,Technology,Mouse,Mouse,10,44343.96,32281.97,12061.99,15,January,2025,27.20%
+ORD10361,30-09-2025,C1040,Customer 61,East,West Bengal,Furniture,Table,Table,8,4630.62,3594.32,1036.3,20,September,2025,22.38%
+ORD10362,05-04-2025,C1129,Customer 43,West,Gujarat,Technology,Laptop,Laptop,4,21032.54,17934.84,3097.7,10,April,2025,14.73%
+ORD10363,02-05-2025,C1236,Customer 181,East,Odisha,Office Supplies,Paper,Paper,7,4368.85,3259.05,1109.8,15,May,2025,25.40%
+ORD10364,14-06-2025,C1159,Customer 62,North,Punjab,Furniture,Chair,Chair,8,18175.43,9874.6,8300.83,10,June,2025,45.67%
+ORD10365,13-04-2025,C1086,Customer 23,East,West Bengal,Technology,Mouse,Mouse,8,36542.86,25683.66,10859.2,10,April,2025,29.72%
+ORD10366,30-03-2025,C1176,Customer 165,West,Maharashtra,Office Supplies,Paper,Paper,2,18278.23,9851.75,8426.48,0,March,2025,46.10%
+ORD10367,31-03-2025,C1290,Customer 131,West,Gujarat,Technology,Mouse,Mouse,4,21288.84,15811.28,5477.56,20,March,2025,25.73%
+ORD10368,07-09-2025,C1258,Customer 112,East,West Bengal,Office Supplies,Pen,Pen,6,33199.68,27035.53,6164.15,5,September,2025,18.57%
+ORD10369,17-11-2025,C1215,Customer 172,South,Karnataka,Technology,Keyboard,Keyboard,5,32899.86,18198.76,14701.1,0,November,2025,44.68%
+ORD10370,17-07-2025,C1076,Customer 287,East,West Bengal,Office Supplies,Binder,Binder,4,25640.41,13047.79,12592.62,15,July,2025,49.11%
+ORD10371,05-02-2025,C1212,Customer 15,West,Maharashtra,Technology,Laptop,Laptop,6,20248.1,16673.53,3574.57,15,February,2025,17.65%
+ORD10372,03-09-2025,C1185,Customer 223,South,Kerala,Technology,Keyboard,Keyboard,5,6532.09,3372.25,3159.84,10,September,2025,48.37%
+ORD10373,24-02-2025,C1073,Customer 201,North,Delhi,Technology,Laptop,Laptop,1,22768.87,17522.85,5246.02,10,February,2025,23.04%
+ORD10374,25-02-2025,C1021,Customer 116,West,Gujarat,Office Supplies,Pen,Pen,1,23064.03,20471.86,2592.17,0,February,2025,11.24%
+ORD10375,11-06-2025,C1208,Customer 229,East,Odisha,Technology,Mouse,Mouse,3,49756.73,44072.23,5684.5,10,June,2025,11.42%
+ORD10376,26-08-2025,C1228,Customer 51,East,Odisha,Furniture,Table,Table,9,48131.5,33879.72,14251.78,10,August,2025,29.61%
+ORD10377,08-08-2025,C1075,Customer 54,East,Odisha,Technology,Keyboard,Keyboard,8,29729.67,18091.79,11637.88,20,August,2025,39.15%
+ORD10378,04-02-2025,C1188,Customer 2,North,Punjab,Technology,Mouse,Mouse,7,49405.61,25246.14,24159.47,20,February,2025,48.90%
+ORD10379,24-07-2025,C1142,Customer 125,North,Delhi,Office Supplies,Paper,Paper,10,35230.98,27839.43,7391.55,20,July,2025,20.98%
+ORD10380,07-01-2025,C1147,Customer 27,East,West Bengal,Furniture,Table,Table,3,40435.55,23464.19,16971.36,20,January,2025,41.97%
+ORD10381,12-07-2025,C1135,Customer 120,East,Odisha,Office Supplies,Binder,Binder,7,32602.86,22701.13,9901.73,10,July,2025,30.37%
+ORD10382,12-11-2025,C1099,Customer 195,East,Odisha,Technology,Mouse,Mouse,6,32774.39,18579.03,14195.36,15,November,2025,43.31%
+ORD10383,26-10-2025,C1069,Customer 67,East,West Bengal,Furniture,Chair,Chair,7,3594.94,2860.09,734.85,5,October,2025,20.44%
+ORD10384,07-06-2025,C1229,Customer 109,West,Maharashtra,Office Supplies,Paper,Paper,10,5564.46,4940.57,623.89,20,June,2025,11.21%
+ORD10385,14-01-2025,C1282,Customer 166,North,Punjab,Furniture,Table,Table,5,31719.02,18839.29,12879.73,0,January,2025,40.61%
+ORD10386,24-08-2025,C1179,Customer 93,South,Kerala,Technology,Laptop,Laptop,7,25651.9,16879.94,8771.96,20,August,2025,34.20%
+ORD10387,01-02-2025,C1188,Customer 151,West,Maharashtra,Office Supplies,Paper,Paper,8,46452.69,24296.46,22156.23,0,February,2025,47.70%
+ORD10388,17-03-2025,C1089,Customer 178,East,Odisha,Technology,Laptop,Laptop,7,28452.68,23193.78,5258.9,15,March,2025,18.48%
+ORD10389,21-03-2025,C1273,Customer 148,East,Odisha,Technology,Laptop,Laptop,6,6532.65,5473.96,1058.69,10,March,2025,16.21%
+ORD10390,19-01-2025,C1107,Customer 140,South,Kerala,Technology,Laptop,Laptop,8,18651.66,10545.65,8106.01,10,January,2025,43.46%
+ORD10391,19-02-2025,C1173,Customer 170,West,Gujarat,Technology,Laptop,Laptop,4,28349.31,18124.91,10224.4,10,February,2025,36.07%
+ORD10392,24-11-2025,C1097,Customer 282,North,Delhi,Furniture,Chair,Chair,4,7836.21,5829.24,2006.97,15,November,2025,25.61%
+ORD10393,18-03-2025,C1282,Customer 33,West,Maharashtra,Office Supplies,Paper,Paper,9,31596.18,16331.43,15264.75,5,March,2025,48.31%
+ORD10394,15-02-2025,C1293,Customer 43,West,Gujarat,Office Supplies,Binder,Binder,5,8748.05,6987.17,1760.88,0,February,2025,20.13%
+ORD10395,16-10-2025,C1282,Customer 173,West,Maharashtra,Technology,Mouse,Mouse,3,6637.64,5576.09,1061.55,15,October,2025,15.99%
+ORD10396,06-08-2025,C1146,Customer 66,East,West Bengal,Furniture,Chair,Chair,9,48120.68,40161.16,7959.52,20,August,2025,16.54%
+ORD10397,30-08-2025,C1051,Customer 131,East,Odisha,Office Supplies,Pen,Pen,6,3818.47,2462.37,1356.1,20,August,2025,35.51%
+ORD10398,04-05-2025,C1077,Customer 51,South,Karnataka,Technology,Mouse,Mouse,5,33235.62,21988.86,11246.76,5,May,2025,33.84%
+ORD10399,10-04-2025,C1027,Customer 6,East,Odisha,Technology,Keyboard,Keyboard,7,14064.95,12128.36,1936.59,5,April,2025,13.77%
+ORD10400,13-11-2025,C1134,Customer 176,South,Tamil Nadu,Office Supplies,Pen,Pen,2,20954.14,13677.99,7276.15,15,November,2025,34.72%
+ORD10401,20-04-2025,C1300,Customer 300,East,Odisha,Furniture,Table,Table,7,47007.01,33165.46,13841.55,15,April,2025,29.45%
+ORD10402,23-11-2025,C1203,Customer 229,West,Gujarat,Furniture,Table,Table,3,22798.89,12833.61,9965.28,15,November,2025,43.71%
+ORD10403,06-10-2025,C1112,Customer 117,North,Punjab,Technology,Mouse,Mouse,9,42420.4,30872.11,11548.29,0,October,2025,27.22%
+ORD10404,07-09-2025,C1167,Customer 288,North,Delhi,Technology,Laptop,Laptop,8,39374.79,33327.05,6047.74,5,September,2025,15.36%
+ORD10405,01-11-2025,C1189,Customer 200,West,Maharashtra,Office Supplies,Binder,Binder,10,5868.65,4283.31,1585.34,15,November,2025,27.01%
+ORD10406,03-08-2025,C1140,Customer 300,West,Maharashtra,Furniture,Chair,Chair,10,26322.91,23143.67,3179.24,10,August,2025,12.08%
+ORD10407,25-04-2025,C1175,Customer 261,West,Maharashtra,Technology,Keyboard,Keyboard,8,12151.78,6544.3,5607.48,20,April,2025,46.15%
+ORD10408,27-11-2025,C1179,Customer 111,East,Odisha,Office Supplies,Paper,Paper,5,18640.3,14085.92,4554.38,15,November,2025,24.43%
+ORD10409,01-03-2025,C1179,Customer 55,West,Maharashtra,Office Supplies,Paper,Paper,2,27554.55,17789.29,9765.26,0,March,2025,35.44%
+ORD10410,19-01-2025,C1125,Customer 64,South,Karnataka,Technology,Laptop,Laptop,1,31404.08,22249.72,9154.36,10,January,2025,29.15%
+ORD10411,26-05-2025,C1180,Customer 153,East,West Bengal,Technology,Keyboard,Keyboard,1,41482.22,32921.36,8560.86,0,May,2025,20.64%
+ORD10412,23-02-2025,C1266,Customer 17,South,Karnataka,Technology,Laptop,Laptop,5,47088.47,34034.72,13053.75,0,February,2025,27.72%
+ORD10413,08-04-2025,C1146,Customer 195,East,West Bengal,Furniture,Chair,Chair,1,39313.01,34419,4894.01,0,April,2025,12.45%
+ORD10414,19-07-2025,C1203,Customer 226,West,Gujarat,Furniture,Chair,Chair,10,2824.02,1757.75,1066.27,0,July,2025,37.76%
+ORD10415,17-10-2025,C1076,Customer 49,East,West Bengal,Furniture,Table,Table,1,13279.22,8440.19,4839.03,10,October,2025,36.44%
+ORD10416,16-08-2025,C1143,Customer 105,East,West Bengal,Furniture,Table,Table,6,40157.87,34113.11,6044.76,5,August,2025,15.05%
+ORD10417,02-07-2025,C1087,Customer 265,North,Delhi,Office Supplies,Paper,Paper,4,47311.31,28353.83,18957.48,10,July,2025,40.07%
+ORD10418,14-09-2025,C1090,Customer 262,West,Gujarat,Furniture,Chair,Chair,8,29644.88,16964.51,12680.37,0,September,2025,42.77%
+ORD10419,27-01-2025,C1247,Customer 299,East,Odisha,Office Supplies,Pen,Pen,4,38298.94,27966.93,10332.01,5,January,2025,26.98%
+ORD10420,27-02-2025,C1258,Customer 154,North,Delhi,Furniture,Table,Table,10,14225.95,11626.31,2599.64,20,February,2025,18.27%
+ORD10421,16-10-2025,C1279,Customer 232,South,Kerala,Technology,Keyboard,Keyboard,10,31473.24,25026.84,6446.4,0,October,2025,20.48%
+ORD10422,08-07-2025,C1225,Customer 116,North,Punjab,Office Supplies,Paper,Paper,3,15973.09,11443.1,4529.99,5,July,2025,28.36%
+ORD10423,03-09-2025,C1114,Customer 213,West,Gujarat,Furniture,Table,Table,10,31412.97,16645.07,14767.9,15,September,2025,47.01%
+ORD10424,09-12-2025,C1284,Customer 172,South,Tamil Nadu,Furniture,Chair,Chair,2,22970.37,14768,8202.37,10,December,2025,35.71%
+ORD10425,27-10-2025,C1040,Customer 265,West,Maharashtra,Office Supplies,Binder,Binder,9,48680.35,41327.85,7352.5,5,October,2025,15.10%
+ORD10426,15-07-2025,C1156,Customer 280,East,West Bengal,Furniture,Chair,Chair,9,2537.73,1368.84,1168.89,10,July,2025,46.06%
+ORD10427,10-12-2025,C1115,Customer 102,North,Punjab,Furniture,Table,Table,2,32782.54,25379.25,7403.29,5,December,2025,22.58%
+ORD10428,12-01-2025,C1033,Customer 95,West,Gujarat,Technology,Mouse,Mouse,9,5356.29,4622.79,733.5,0,January,2025,13.69%
+ORD10429,06-11-2025,C1156,Customer 25,East,Odisha,Furniture,Chair,Chair,7,7719.59,5231.22,2488.37,5,November,2025,32.23%
+ORD10430,03-04-2025,C1281,Customer 169,South,Kerala,Furniture,Chair,Chair,2,47476.13,41951.08,5525.05,0,April,2025,11.64%
+ORD10431,02-04-2025,C1084,Customer 270,West,Gujarat,Office Supplies,Paper,Paper,1,14254.8,8369.61,5885.19,20,April,2025,41.29%
+ORD10432,22-11-2025,C1173,Customer 179,East,West Bengal,Office Supplies,Binder,Binder,10,38098.45,21373.9,16724.55,0,November,2025,43.90%
+ORD10433,12-06-2025,C1246,Customer 25,North,Delhi,Furniture,Chair,Chair,4,37809.92,24675.6,13134.32,15,June,2025,34.74%
+ORD10434,17-12-2025,C1084,Customer 16,West,Gujarat,Technology,Laptop,Laptop,9,13580.71,10330.42,3250.29,10,December,2025,23.93%
+ORD10435,09-06-2025,C1226,Customer 206,North,Punjab,Office Supplies,Pen,Pen,8,5701.73,4343.91,1357.82,20,June,2025,23.81%
+ORD10436,05-11-2025,C1209,Customer 102,East,Odisha,Office Supplies,Pen,Pen,3,13176.71,10940.66,2236.05,5,November,2025,16.97%
+ORD10437,21-07-2025,C1000,Customer 24,North,Punjab,Office Supplies,Paper,Paper,8,46589.86,25915.74,20674.12,20,July,2025,44.37%
+ORD10438,06-07-2025,C1088,Customer 196,East,West Bengal,Technology,Mouse,Mouse,3,8462.55,4312.15,4150.4,20,July,2025,49.04%
+ORD10439,13-01-2025,C1174,Customer 11,West,Maharashtra,Office Supplies,Paper,Paper,10,35634.79,25401.91,10232.88,5,January,2025,28.72%
+ORD10440,20-08-2025,C1196,Customer 111,South,Karnataka,Technology,Mouse,Mouse,10,1297.93,1086.76,211.17,15,August,2025,16.27%
+ORD10441,02-04-2025,C1079,Customer 173,West,Gujarat,Furniture,Table,Table,8,47940.33,31702.51,16237.82,15,April,2025,33.87%
+ORD10442,15-10-2025,C1056,Customer 48,North,Delhi,Office Supplies,Paper,Paper,7,10693.5,6207.55,4485.95,10,October,2025,41.95%
+ORD10443,15-09-2025,C1029,Customer 37,South,Kerala,Technology,Laptop,Laptop,5,9223.97,7677.71,1546.26,15,September,2025,16.76%
+ORD10444,13-01-2025,C1101,Customer 209,North,Punjab,Furniture,Chair,Chair,10,28743.35,19497.27,9246.08,0,January,2025,32.17%
+ORD10445,08-11-2025,C1107,Customer 39,East,West Bengal,Technology,Keyboard,Keyboard,8,9088.39,7633.45,1454.94,5,November,2025,16.01%
+ORD10446,01-10-2025,C1280,Customer 235,North,Punjab,Technology,Keyboard,Keyboard,5,48954.83,33579.74,15375.09,20,October,2025,31.41%
+ORD10447,29-05-2025,C1243,Customer 193,West,Maharashtra,Office Supplies,Binder,Binder,10,36625.06,26835.48,9789.58,15,May,2025,26.73%
+ORD10448,18-02-2025,C1097,Customer 214,South,Karnataka,Technology,Laptop,Laptop,8,29385.61,17399.88,11985.73,5,February,2025,40.79%
+ORD10449,12-04-2025,C1136,Customer 229,East,Odisha,Technology,Mouse,Mouse,1,25304.77,16581.27,8723.5,10,April,2025,34.47%
+ORD10450,27-08-2025,C1115,Customer 247,South,Kerala,Technology,Keyboard,Keyboard,2,43423.12,27524.59,15898.53,10,August,2025,36.61%
+ORD10451,05-09-2025,C1211,Customer 83,North,Delhi,Furniture,Chair,Chair,8,17877.56,9014.23,8863.33,5,September,2025,49.58%
+ORD10452,13-08-2025,C1027,Customer 203,South,Kerala,Office Supplies,Pen,Pen,2,44020,25696.91,18323.09,5,August,2025,41.62%
+ORD10453,26-07-2025,C1198,Customer 81,East,West Bengal,Technology,Keyboard,Keyboard,9,20988.7,16247.75,4740.95,15,July,2025,22.59%
+ORD10454,13-02-2025,C1299,Customer 267,West,Gujarat,Office Supplies,Binder,Binder,10,9928.41,6256.41,3672,20,February,2025,36.98%
+ORD10455,07-05-2025,C1137,Customer 167,North,Delhi,Technology,Laptop,Laptop,3,26693.95,20444.52,6249.43,0,May,2025,23.41%
+ORD10456,11-09-2025,C1280,Customer 72,South,Karnataka,Technology,Mouse,Mouse,1,43151.63,24258.66,18892.97,0,September,2025,43.78%
+ORD10457,06-12-2025,C1103,Customer 151,East,Odisha,Technology,Keyboard,Keyboard,9,8664.25,5994.42,2669.83,0,December,2025,30.81%
+ORD10458,06-12-2025,C1231,Customer 81,West,Gujarat,Office Supplies,Pen,Pen,6,47216.67,38614.81,8601.86,5,December,2025,18.22%
+ORD10459,27-04-2025,C1300,Customer 220,North,Delhi,Office Supplies,Pen,Pen,5,32498.34,22951.86,9546.48,15,April,2025,29.38%
+ORD10460,18-07-2025,C1188,Customer 159,West,Gujarat,Furniture,Chair,Chair,3,34151.74,29004.47,5147.27,10,July,2025,15.07%
+ORD10461,20-11-2025,C1118,Customer 292,East,Odisha,Office Supplies,Pen,Pen,2,42931.03,26851.16,16079.87,0,November,2025,37.46%
+ORD10462,05-04-2025,C1053,Customer 103,South,Tamil Nadu,Technology,Keyboard,Keyboard,6,12784.68,8381.62,4403.06,0,April,2025,34.44%
+ORD10463,25-07-2025,C1046,Customer 266,North,Punjab,Furniture,Chair,Chair,3,35312.78,25101.37,10211.41,5,July,2025,28.92%
+ORD10464,27-11-2025,C1137,Customer 287,South,Karnataka,Technology,Laptop,Laptop,7,7630.77,5215.1,2415.67,5,November,2025,31.66%
+ORD10465,15-02-2025,C1247,Customer 218,West,Gujarat,Furniture,Table,Table,5,29854.71,24873.45,4981.26,20,February,2025,16.69%
+ORD10466,15-06-2025,C1017,Customer 112,South,Karnataka,Furniture,Chair,Chair,6,18612.19,13398.67,5213.52,10,June,2025,28.01%
+ORD10467,22-03-2025,C1065,Customer 58,South,Karnataka,Furniture,Chair,Chair,3,40962.85,25836,15126.85,5,March,2025,36.93%
+ORD10468,29-01-2025,C1194,Customer 97,South,Kerala,Furniture,Table,Table,8,47671.39,31161.37,16510.02,0,January,2025,34.63%
+ORD10469,18-09-2025,C1275,Customer 73,North,Punjab,Technology,Keyboard,Keyboard,2,33465.12,16905.45,16559.67,10,September,2025,49.48%
+ORD10470,10-10-2025,C1100,Customer 249,West,Gujarat,Technology,Mouse,Mouse,4,5938.14,3546.17,2391.97,10,October,2025,40.28%
+ORD10471,11-11-2025,C1006,Customer 180,South,Tamil Nadu,Furniture,Table,Table,6,9092.68,7145.61,1947.07,0,November,2025,21.41%
+ORD10472,30-09-2025,C1275,Customer 252,North,Delhi,Furniture,Table,Table,8,42575.09,26362.3,16212.79,10,September,2025,38.08%
+ORD10473,07-09-2025,C1295,Customer 299,North,Punjab,Office Supplies,Paper,Paper,1,36939.03,25501.49,11437.54,5,September,2025,30.96%
+ORD10474,26-07-2025,C1003,Customer 115,West,Gujarat,Office Supplies,Paper,Paper,4,41354.47,29182.77,12171.7,20,July,2025,29.43%
+ORD10475,26-06-2025,C1237,Customer 160,East,West Bengal,Furniture,Table,Table,3,1681.5,979.19,702.31,0,June,2025,41.77%
+ORD10476,07-04-2025,C1283,Customer 266,East,West Bengal,Technology,Mouse,Mouse,1,6829.44,4052.9,2776.54,10,April,2025,40.66%
+ORD10477,17-03-2025,C1209,Customer 263,South,Tamil Nadu,Office Supplies,Binder,Binder,8,5098.28,3376.84,1721.44,20,March,2025,33.77%
+ORD10478,19-02-2025,C1114,Customer 62,West,Maharashtra,Furniture,Table,Table,8,40184.47,20466.54,19717.93,5,February,2025,49.07%
+ORD10479,08-12-2025,C1053,Customer 251,East,West Bengal,Office Supplies,Paper,Paper,8,38252.52,21807.03,16445.49,20,December,2025,42.99%
+ORD10480,21-12-2025,C1131,Customer 69,West,Gujarat,Technology,Keyboard,Keyboard,10,34809.7,20734.33,14075.37,0,December,2025,40.44%
+ORD10481,13-05-2025,C1226,Customer 94,West,Gujarat,Technology,Keyboard,Keyboard,9,22859.29,18610.53,4248.76,10,May,2025,18.59%
+ORD10482,21-10-2025,C1080,Customer 20,North,Punjab,Technology,Mouse,Mouse,6,45161.76,31872.09,13289.67,5,October,2025,29.43%
+ORD10483,23-11-2025,C1097,Customer 225,West,Gujarat,Technology,Mouse,Mouse,9,47834.88,39101.86,8733.02,5,November,2025,18.26%
+ORD10484,09-12-2025,C1019,Customer 243,North,Delhi,Furniture,Chair,Chair,10,20665.04,17278.82,3386.22,5,December,2025,16.39%
+ORD10485,08-10-2025,C1053,Customer 210,West,Gujarat,Furniture,Table,Table,6,18732.29,12632.32,6099.97,5,October,2025,32.56%
+ORD10486,12-11-2025,C1178,Customer 93,South,Kerala,Furniture,Table,Table,9,32126.86,25503.41,6623.45,20,November,2025,20.62%
+ORD10487,30-04-2025,C1212,Customer 227,East,West Bengal,Furniture,Chair,Chair,9,8087.91,6775.02,1312.89,5,April,2025,16.23%
+ORD10488,05-07-2025,C1245,Customer 274,South,Kerala,Furniture,Chair,Chair,2,41081.61,21190.68,19890.93,0,July,2025,48.42%
+ORD10489,10-02-2025,C1016,Customer 248,North,Delhi,Technology,Keyboard,Keyboard,3,45471.41,30489.36,14982.05,10,February,2025,32.95%
+ORD10490,17-02-2025,C1031,Customer 291,North,Delhi,Technology,Laptop,Laptop,8,29122.93,14565.69,14557.24,15,February,2025,49.99%
+ORD10491,05-05-2025,C1062,Customer 10,North,Punjab,Office Supplies,Paper,Paper,7,45505.95,33498.27,12007.68,20,May,2025,26.39%
+ORD10492,05-08-2025,C1234,Customer 110,South,Kerala,Office Supplies,Paper,Paper,4,23052.8,17250.14,5802.66,0,August,2025,25.17%
+ORD10493,11-06-2025,C1232,Customer 250,East,West Bengal,Technology,Keyboard,Keyboard,3,28187.24,15818.56,12368.68,20,June,2025,43.88%
+ORD10494,05-08-2025,C1255,Customer 284,South,Kerala,Furniture,Table,Table,2,42247.19,30756.9,11490.29,20,August,2025,27.20%
+ORD10495,24-02-2025,C1289,Customer 3,West,Maharashtra,Office Supplies,Binder,Binder,8,42865,31745.17,11119.83,5,February,2025,25.94%
+ORD10496,23-07-2025,C1073,Customer 137,North,Delhi,Office Supplies,Paper,Paper,1,35913.19,28910.1,7003.09,20,July,2025,19.50%
+ORD10497,18-04-2025,C1136,Customer 254,South,Karnataka,Office Supplies,Binder,Binder,8,23904.16,13902.64,10001.52,0,April,2025,41.84%
+ORD10498,08-12-2025,C1276,Customer 8,West,Gujarat,Office Supplies,Pen,Pen,3,48223.73,33506.94,14716.79,20,December,2025,30.52%
+ORD10499,02-03-2025,C1156,Customer 10,West,Gujarat,Technology,Laptop,Laptop,5,47834.86,31321.87,16512.99,10,March,2025,34.52%
+ORD10500,13-11-2025,C1226,Customer 197,East,West Bengal,Office Supplies,Paper,Paper,2,23646.61,14062.23,9584.38,15,November,2025,40.53%
+ORD10501,11-08-2025,C1298,Customer 169,West,Gujarat,Furniture,Chair,Chair,4,36199.58,24740.89,11458.69,15,August,2025,31.65%
+ORD10502,14-12-2025,C1006,Customer 230,West,Gujarat,Furniture,Table,Table,5,42356.52,26929.16,15427.36,15,December,2025,36.42%
+ORD10503,22-12-2025,C1267,Customer 250,West,Maharashtra,Office Supplies,Paper,Paper,8,38636.81,21154.54,17482.27,5,December,2025,45.25%
+ORD10504,14-08-2025,C1041,Customer 270,North,Punjab,Furniture,Table,Table,6,11427.11,9027.83,2399.28,5,August,2025,21.00%
+ORD10505,07-11-2025,C1004,Customer 278,North,Punjab,Technology,Mouse,Mouse,4,19339.07,12481.55,6857.52,15,November,2025,35.46%
+ORD10506,19-03-2025,C1130,Customer 113,North,Punjab,Furniture,Chair,Chair,1,25356.85,17548.26,7808.59,15,March,2025,30.79%
+ORD10507,18-02-2025,C1266,Customer 66,North,Punjab,Technology,Laptop,Laptop,5,17560.01,14900.38,2659.63,15,February,2025,15.15%
+ORD10508,07-10-2025,C1233,Customer 69,South,Kerala,Furniture,Table,Table,2,31274.93,20911.19,10363.74,20,October,2025,33.14%
+ORD10509,24-05-2025,C1288,Customer 195,South,Karnataka,Office Supplies,Paper,Paper,2,42110.34,32729.36,9380.98,5,May,2025,22.28%
+ORD10510,14-10-2025,C1123,Customer 50,South,Tamil Nadu,Furniture,Table,Table,10,25631.6,14863.88,10767.72,20,October,2025,42.01%
+ORD10511,29-09-2025,C1194,Customer 122,South,Kerala,Office Supplies,Binder,Binder,6,5575.72,4375.99,1199.73,5,September,2025,21.52%
+ORD10512,26-02-2025,C1029,Customer 38,East,West Bengal,Furniture,Table,Table,3,28518.17,14293.86,14224.31,0,February,2025,49.88%
+ORD10513,09-10-2025,C1249,Customer 255,West,Gujarat,Furniture,Chair,Chair,3,27251.05,24356.25,2894.8,15,October,2025,10.62%
+ORD10514,26-02-2025,C1189,Customer 160,West,Maharashtra,Technology,Mouse,Mouse,8,33175.97,18848.64,14327.33,20,February,2025,43.19%
+ORD10515,26-05-2025,C1263,Customer 186,North,Delhi,Furniture,Chair,Chair,8,45948.47,27886.33,18062.14,5,May,2025,39.31%
+ORD10516,26-10-2025,C1098,Customer 293,West,Maharashtra,Furniture,Table,Table,2,23664.48,15391.99,8272.49,0,October,2025,34.96%
+ORD10517,17-06-2025,C1220,Customer 238,South,Tamil Nadu,Technology,Laptop,Laptop,6,14106.13,10546.38,3559.75,0,June,2025,25.24%
+ORD10518,18-08-2025,C1020,Customer 166,North,Delhi,Office Supplies,Paper,Paper,8,3611.49,2314.69,1296.8,15,August,2025,35.91%
+ORD10519,24-07-2025,C1235,Customer 191,West,Gujarat,Furniture,Table,Table,2,18645.12,15077.56,3567.56,15,July,2025,19.13%
+ORD10520,14-06-2025,C1009,Customer 80,West,Maharashtra,Technology,Mouse,Mouse,3,35506.03,20776.92,14729.11,10,June,2025,41.48%
+ORD10521,09-08-2025,C1243,Customer 73,East,Odisha,Office Supplies,Paper,Paper,10,45466.52,25475.74,19990.78,15,August,2025,43.97%
+ORD10522,20-03-2025,C1254,Customer 142,South,Karnataka,Furniture,Table,Table,3,39154.63,20642.17,18512.46,5,March,2025,47.28%
+ORD10523,01-02-2025,C1202,Customer 207,West,Gujarat,Furniture,Chair,Chair,7,10920.85,7261.71,3659.14,20,February,2025,33.51%
+ORD10524,05-04-2025,C1007,Customer 265,East,Odisha,Office Supplies,Paper,Paper,4,20678.7,10505.85,10172.85,15,April,2025,49.19%
+ORD10525,07-05-2025,C1069,Customer 6,North,Punjab,Technology,Keyboard,Keyboard,4,13503.37,10179.64,3323.73,15,May,2025,24.61%
+ORD10526,14-09-2025,C1245,Customer 172,South,Karnataka,Furniture,Chair,Chair,8,20080.6,13445,6635.6,20,September,2025,33.04%
+ORD10527,20-01-2025,C1225,Customer 25,East,Odisha,Furniture,Chair,Chair,7,35051.7,28818.78,6232.92,10,January,2025,17.78%
+ORD10528,21-03-2025,C1300,Customer 171,South,Kerala,Furniture,Chair,Chair,9,9063.95,4939.39,4124.56,0,March,2025,45.51%
+ORD10529,06-02-2025,C1284,Customer 109,North,Punjab,Furniture,Chair,Chair,3,40025.46,28923.8,11101.66,10,February,2025,27.74%
+ORD10530,20-04-2025,C1164,Customer 192,West,Gujarat,Office Supplies,Paper,Paper,3,21192.55,11665.38,9527.17,10,April,2025,44.96%
+ORD10531,15-07-2025,C1262,Customer 200,West,Gujarat,Office Supplies,Paper,Paper,3,17548.01,15558.64,1989.37,20,July,2025,11.34%
+ORD10532,09-08-2025,C1218,Customer 156,East,Odisha,Office Supplies,Paper,Paper,1,35177.12,25401.21,9775.91,10,August,2025,27.79%
+ORD10533,05-12-2025,C1190,Customer 161,South,Karnataka,Office Supplies,Paper,Paper,6,708.46,450.03,258.43,15,December,2025,36.48%
+ORD10534,02-01-2025,C1279,Customer 141,West,Maharashtra,Furniture,Chair,Chair,7,37201.74,32934.85,4266.89,15,January,2025,11.47%
+ORD10535,23-03-2025,C1114,Customer 176,South,Karnataka,Furniture,Chair,Chair,10,32083.86,19540.26,12543.6,20,March,2025,39.10%
+ORD10536,22-09-2025,C1180,Customer 127,South,Karnataka,Technology,Laptop,Laptop,3,18414.01,12216.92,6197.09,10,September,2025,33.65%
+ORD10537,06-05-2025,C1245,Customer 46,East,Odisha,Furniture,Table,Table,2,19043.11,14341.45,4701.66,10,May,2025,24.69%
+ORD10538,26-06-2025,C1024,Customer 156,North,Punjab,Technology,Laptop,Laptop,6,30171.09,19719.42,10451.67,10,June,2025,34.64%
+ORD10539,09-09-2025,C1123,Customer 114,North,Punjab,Furniture,Table,Table,5,10504.59,6766.15,3738.44,5,September,2025,35.59%
+ORD10540,24-05-2025,C1244,Customer 235,East,Odisha,Office Supplies,Binder,Binder,9,35793.27,26581.01,9212.26,20,May,2025,25.74%
+ORD10541,20-11-2025,C1072,Customer 292,East,West Bengal,Office Supplies,Paper,Paper,6,19357.83,15766.82,3591.01,15,November,2025,18.55%
+ORD10542,23-06-2025,C1193,Customer 17,South,Karnataka,Furniture,Chair,Chair,5,15105.13,10914.94,4190.19,5,June,2025,27.74%
+ORD10543,16-08-2025,C1268,Customer 142,North,Delhi,Furniture,Table,Table,1,38732.82,24299.66,14433.16,10,August,2025,37.26%
+ORD10544,08-06-2025,C1239,Customer 298,North,Punjab,Technology,Mouse,Mouse,9,39673.74,26359.62,13314.12,5,June,2025,33.56%
+ORD10545,22-11-2025,C1113,Customer 6,South,Kerala,Office Supplies,Binder,Binder,5,48485.72,34976,13509.72,20,November,2025,27.86%
+ORD10546,02-01-2025,C1093,Customer 139,West,Gujarat,Technology,Laptop,Laptop,6,25250.48,15264.19,9986.29,20,January,2025,39.55%
+ORD10547,06-12-2025,C1168,Customer 110,South,Karnataka,Office Supplies,Binder,Binder,10,31441.73,18341.44,13100.29,10,December,2025,41.67%
+ORD10548,22-09-2025,C1227,Customer 263,East,West Bengal,Office Supplies,Paper,Paper,1,44108.74,32408.04,11700.7,0,September,2025,26.53%
+ORD10549,23-02-2025,C1130,Customer 259,West,Maharashtra,Furniture,Table,Table,2,4251.69,3062.51,1189.18,5,February,2025,27.97%
+ORD10550,05-01-2025,C1160,Customer 202,East,West Bengal,Office Supplies,Paper,Paper,9,21760.64,17839.09,3921.55,0,January,2025,18.02%
+ORD10551,11-10-2025,C1119,Customer 229,East,Odisha,Technology,Keyboard,Keyboard,8,28754.7,19722.13,9032.57,15,October,2025,31.41%
+ORD10552,27-02-2025,C1252,Customer 218,South,Tamil Nadu,Technology,Laptop,Laptop,4,30545.87,25781.34,4764.53,15,February,2025,15.60%
+ORD10553,18-04-2025,C1082,Customer 8,South,Kerala,Office Supplies,Binder,Binder,7,5406.39,3748.46,1657.93,10,April,2025,30.67%
+ORD10554,10-07-2025,C1219,Customer 163,North,Delhi,Furniture,Chair,Chair,1,17115.24,10075,7040.24,15,July,2025,41.13%
+ORD10555,17-09-2025,C1297,Customer 243,East,Odisha,Office Supplies,Binder,Binder,7,46447.83,41597.33,4850.5,5,September,2025,10.44%
+ORD10556,13-03-2025,C1172,Customer 279,West,Maharashtra,Technology,Mouse,Mouse,5,22281.12,16544.3,5736.82,10,March,2025,25.75%
+ORD10557,01-12-2025,C1001,Customer 242,East,West Bengal,Office Supplies,Paper,Paper,9,23455.62,17789.65,5665.97,5,December,2025,24.16%
+ORD10558,06-04-2025,C1061,Customer 15,North,Punjab,Office Supplies,Paper,Paper,5,29077.25,16420.65,12656.6,10,April,2025,43.53%
+ORD10559,10-02-2025,C1268,Customer 151,East,Odisha,Office Supplies,Binder,Binder,9,49229.82,26484.58,22745.24,0,February,2025,46.20%
+ORD10560,05-09-2025,C1004,Customer 96,West,Gujarat,Technology,Laptop,Laptop,10,42329.98,25755.72,16574.26,20,September,2025,39.15%
+ORD10561,10-05-2025,C1088,Customer 18,East,Odisha,Technology,Keyboard,Keyboard,8,19845.51,12434.65,7410.86,0,May,2025,37.34%
+ORD10562,03-05-2025,C1001,Customer 237,West,Maharashtra,Furniture,Chair,Chair,1,34975.34,28930.45,6044.89,5,May,2025,17.28%
+ORD10563,23-03-2025,C1032,Customer 201,East,West Bengal,Office Supplies,Binder,Binder,7,35792.18,28569.67,7222.51,10,March,2025,20.18%
+ORD10564,26-09-2025,C1220,Customer 77,West,Maharashtra,Technology,Laptop,Laptop,8,30058.98,21480.26,8578.72,0,September,2025,28.54%
+ORD10565,06-07-2025,C1124,Customer 239,South,Kerala,Technology,Mouse,Mouse,4,36130.47,21030.63,15099.84,0,July,2025,41.79%
+ORD10566,27-05-2025,C1135,Customer 71,West,Maharashtra,Furniture,Table,Table,8,18346.96,14343.56,4003.4,10,May,2025,21.82%
+ORD10567,16-04-2025,C1087,Customer 32,East,Odisha,Office Supplies,Paper,Paper,2,1270.68,715.25,555.43,10,April,2025,43.71%
+ORD10568,12-07-2025,C1021,Customer 279,South,Kerala,Furniture,Table,Table,8,13813.47,8764.81,5048.66,15,July,2025,36.55%
+ORD10569,23-07-2025,C1087,Customer 105,West,Maharashtra,Office Supplies,Paper,Paper,3,37125.36,32083.46,5041.9,15,July,2025,13.58%
+ORD10570,04-07-2025,C1112,Customer 283,North,Delhi,Furniture,Chair,Chair,2,15509.77,12066.67,3443.1,15,July,2025,22.20%
+ORD10571,17-07-2025,C1042,Customer 204,South,Kerala,Technology,Laptop,Laptop,4,49660.19,30312.97,19347.22,5,July,2025,38.96%
+ORD10572,16-02-2025,C1156,Customer 123,East,West Bengal,Furniture,Table,Table,9,43024.61,21860.44,21164.17,0,February,2025,49.19%
+ORD10573,20-10-2025,C1192,Customer 122,West,Gujarat,Technology,Mouse,Mouse,6,13431.77,11162.14,2269.63,15,October,2025,16.90%
+ORD10574,15-09-2025,C1126,Customer 78,South,Tamil Nadu,Technology,Mouse,Mouse,1,26549.89,23846.86,2703.03,0,September,2025,10.18%
+ORD10575,22-10-2025,C1124,Customer 174,East,Odisha,Office Supplies,Pen,Pen,10,6692.94,5060.55,1632.39,20,October,2025,24.39%
+ORD10576,07-06-2025,C1040,Customer 257,South,Karnataka,Office Supplies,Binder,Binder,3,39261.75,28795.86,10465.89,10,June,2025,26.66%
+ORD10577,14-03-2025,C1143,Customer 74,North,Punjab,Furniture,Chair,Chair,8,8669.2,7028.8,1640.4,10,March,2025,18.92%
+ORD10578,12-07-2025,C1098,Customer 211,North,Punjab,Office Supplies,Pen,Pen,7,7876.87,4442.86,3434.01,10,July,2025,43.60%
+ORD10579,30-03-2025,C1184,Customer 266,South,Kerala,Office Supplies,Paper,Paper,2,36927.61,20609.56,16318.05,0,March,2025,44.19%
+ORD10580,26-06-2025,C1122,Customer 256,North,Punjab,Furniture,Chair,Chair,1,47545.76,33500.85,14044.91,15,June,2025,29.54%
+ORD10581,23-04-2025,C1162,Customer 9,North,Punjab,Office Supplies,Pen,Pen,4,17552.62,13404.07,4148.55,0,April,2025,23.63%
+ORD10582,01-05-2025,C1055,Customer 81,North,Delhi,Furniture,Chair,Chair,4,27582.29,19227.84,8354.45,5,May,2025,30.29%
+ORD10583,30-11-2025,C1181,Customer 32,South,Kerala,Office Supplies,Binder,Binder,8,1188.57,812.58,375.99,15,November,2025,31.63%
+ORD10584,14-03-2025,C1145,Customer 65,South,Kerala,Furniture,Chair,Chair,7,3868.66,3391.86,476.8,10,March,2025,12.32%
+ORD10585,03-08-2025,C1013,Customer 147,West,Gujarat,Technology,Laptop,Laptop,1,2681.34,1574.89,1106.45,5,August,2025,41.26%
+ORD10586,13-09-2025,C1090,Customer 180,East,Odisha,Technology,Keyboard,Keyboard,10,30680.79,22368.56,8312.23,10,September,2025,27.09%
+ORD10587,01-11-2025,C1296,Customer 168,West,Gujarat,Office Supplies,Paper,Paper,8,23190.31,19879.88,3310.43,5,November,2025,14.28%
+ORD10588,22-08-2025,C1138,Customer 153,South,Tamil Nadu,Furniture,Chair,Chair,9,17453.86,15123.52,2330.34,15,August,2025,13.35%
+ORD10589,16-07-2025,C1261,Customer 225,South,Tamil Nadu,Furniture,Chair,Chair,5,22663.15,14282.21,8380.94,10,July,2025,36.98%
+ORD10590,15-11-2025,C1151,Customer 118,North,Delhi,Office Supplies,Pen,Pen,1,9918.51,6390.71,3527.8,10,November,2025,35.57%
+ORD10591,29-07-2025,C1101,Customer 11,East,West Bengal,Furniture,Table,Table,8,28414.39,17575.52,10838.87,10,July,2025,38.15%
+ORD10592,29-05-2025,C1030,Customer 72,South,Kerala,Furniture,Table,Table,5,20790.03,16461.58,4328.45,15,May,2025,20.82%
+ORD10593,15-11-2025,C1187,Customer 225,North,Punjab,Technology,Laptop,Laptop,10,10186.8,7553.47,2633.33,20,November,2025,25.85%
+ORD10594,18-07-2025,C1096,Customer 175,North,Punjab,Technology,Keyboard,Keyboard,3,7964,5252.3,2711.7,0,July,2025,34.05%
+ORD10595,28-03-2025,C1186,Customer 296,East,West Bengal,Technology,Keyboard,Keyboard,1,9454.54,4803.11,4651.43,20,March,2025,49.20%
+ORD10596,22-04-2025,C1284,Customer 20,East,Odisha,Furniture,Chair,Chair,1,14766.36,8942.11,5824.25,0,April,2025,39.44%
+ORD10597,27-01-2025,C1169,Customer 3,North,Punjab,Technology,Keyboard,Keyboard,6,17027.19,10523.23,6503.96,15,January,2025,38.20%
+ORD10598,16-11-2025,C1135,Customer 75,North,Delhi,Office Supplies,Binder,Binder,9,22550.83,12435.62,10115.21,5,November,2025,44.86%
+ORD10599,25-02-2025,C1178,Customer 138,West,Maharashtra,Furniture,Chair,Chair,8,49735.06,41424.73,8310.33,20,February,2025,16.71%
+ORD10600,18-05-2025,C1159,Customer 117,West,Gujarat,Office Supplies,Pen,Pen,1,38565.09,20588.27,17976.82,15,May,2025,46.61%
+ORD10601,25-07-2025,C1169,Customer 8,West,Gujarat,Office Supplies,Binder,Binder,10,18870.22,11180.75,7689.47,10,July,2025,40.75%
+ORD10602,14-10-2025,C1214,Customer 279,South,Kerala,Office Supplies,Pen,Pen,7,29557.14,15387.14,14170,0,October,2025,47.94%
+ORD10603,14-10-2025,C1230,Customer 101,East,Odisha,Office Supplies,Paper,Paper,9,10990.45,8879.03,2111.42,5,October,2025,19.21%
+ORD10604,20-11-2025,C1258,Customer 268,West,Maharashtra,Furniture,Table,Table,6,24108.64,16672.48,7436.16,15,November,2025,30.84%
+ORD10605,10-05-2025,C1034,Customer 293,North,Punjab,Furniture,Chair,Chair,3,38552.94,23667.52,14885.42,10,May,2025,38.61%
+ORD10606,04-11-2025,C1161,Customer 16,North,Delhi,Furniture,Table,Table,4,4835.05,3011.22,1823.83,10,November,2025,37.72%
+ORD10607,17-08-2025,C1219,Customer 261,North,Delhi,Technology,Mouse,Mouse,9,31188.35,19255.52,11932.83,10,August,2025,38.26%
+ORD10608,02-01-2025,C1105,Customer 104,South,Karnataka,Technology,Keyboard,Keyboard,9,15798.86,9109.88,6688.98,5,January,2025,42.34%
+ORD10609,29-09-2025,C1227,Customer 228,East,Odisha,Office Supplies,Paper,Paper,3,23263.39,15146.7,8116.69,5,September,2025,34.89%
+ORD10610,02-09-2025,C1270,Customer 191,West,Maharashtra,Technology,Keyboard,Keyboard,2,13800.7,10651.87,3148.83,10,September,2025,22.82%
+ORD10611,20-10-2025,C1272,Customer 10,South,Tamil Nadu,Office Supplies,Paper,Paper,1,20684.59,13004.46,7680.13,5,October,2025,37.13%
+ORD10612,04-02-2025,C1067,Customer 157,North,Delhi,Furniture,Chair,Chair,5,49818.02,40544.3,9273.72,10,February,2025,18.62%
+ORD10613,16-03-2025,C1186,Customer 122,East,Odisha,Office Supplies,Binder,Binder,3,4550.83,3275.25,1275.58,15,March,2025,28.03%
+ORD10614,07-03-2025,C1006,Customer 244,East,West Bengal,Office Supplies,Binder,Binder,3,49521.43,38523.01,10998.42,5,March,2025,22.21%
+ORD10615,02-01-2025,C1045,Customer 62,South,Karnataka,Furniture,Table,Table,4,40797.19,28323.84,12473.35,20,January,2025,30.57%
+ORD10616,21-04-2025,C1093,Customer 255,West,Maharashtra,Office Supplies,Pen,Pen,8,17390.38,10585.23,6805.15,20,April,2025,39.13%
+ORD10617,09-09-2025,C1212,Customer 295,South,Tamil Nadu,Technology,Mouse,Mouse,8,10195.44,6910.73,3284.71,0,September,2025,32.22%
+ORD10618,30-05-2025,C1231,Customer 107,East,West Bengal,Technology,Mouse,Mouse,2,35229.99,30380.38,4849.61,20,May,2025,13.77%
+ORD10619,16-01-2025,C1078,Customer 292,West,Maharashtra,Technology,Keyboard,Keyboard,6,38679.53,31534.64,7144.89,5,January,2025,18.47%
+ORD10620,16-12-2025,C1155,Customer 88,East,Odisha,Office Supplies,Paper,Paper,2,44121.29,28494.58,15626.71,15,December,2025,35.42%
+ORD10621,30-11-2025,C1155,Customer 33,North,Delhi,Furniture,Table,Table,2,24895.17,17666.34,7228.83,5,November,2025,29.04%
+ORD10622,31-05-2025,C1172,Customer 212,East,West Bengal,Technology,Keyboard,Keyboard,7,4712.64,3531.38,1181.26,0,May,2025,25.07%
+ORD10623,05-02-2025,C1020,Customer 218,North,Punjab,Furniture,Chair,Chair,6,19686.93,15554.05,4132.88,10,February,2025,20.99%
+ORD10624,03-11-2025,C1210,Customer 269,South,Karnataka,Technology,Laptop,Laptop,6,22764.98,13148.35,9616.63,10,November,2025,42.24%
+ORD10625,11-06-2025,C1045,Customer 1,South,Kerala,Furniture,Table,Table,3,41007.96,29177.01,11830.95,0,June,2025,28.85%
+ORD10626,01-12-2025,C1177,Customer 293,North,Delhi,Office Supplies,Binder,Binder,10,7651.71,6076.83,1574.88,5,December,2025,20.58%
+ORD10627,28-04-2025,C1007,Customer 56,West,Maharashtra,Technology,Laptop,Laptop,5,35346.79,19954.54,15392.25,5,April,2025,43.55%
+ORD10628,24-11-2025,C1041,Customer 277,South,Kerala,Office Supplies,Paper,Paper,5,40430.58,22253.72,18176.86,0,November,2025,44.96%
+ORD10629,16-04-2025,C1151,Customer 33,East,Odisha,Office Supplies,Pen,Pen,8,17894.72,9961.54,7933.18,20,April,2025,44.33%
+ORD10630,11-07-2025,C1115,Customer 187,East,West Bengal,Office Supplies,Binder,Binder,1,6321.77,4120.98,2200.79,5,July,2025,34.81%
+ORD10631,31-07-2025,C1038,Customer 248,South,Tamil Nadu,Technology,Laptop,Laptop,8,10299.79,8862.28,1437.51,20,July,2025,13.96%
+ORD10632,05-06-2025,C1079,Customer 274,West,Maharashtra,Office Supplies,Binder,Binder,2,4777.92,3360.11,1417.81,15,June,2025,29.67%
+ORD10633,14-12-2025,C1146,Customer 23,West,Maharashtra,Furniture,Table,Table,6,9302.56,5365.46,3937.1,0,December,2025,42.32%
+ORD10634,08-02-2025,C1026,Customer 114,East,Odisha,Furniture,Chair,Chair,3,45461.29,37877.76,7583.53,15,February,2025,16.68%
+ORD10635,12-02-2025,C1073,Customer 46,North,Punjab,Technology,Keyboard,Keyboard,5,32898.81,18401.05,14497.76,10,February,2025,44.07%
+ORD10636,17-06-2025,C1089,Customer 16,East,Odisha,Technology,Laptop,Laptop,4,46706.86,27361.21,19345.65,15,June,2025,41.42%
+ORD10637,23-12-2025,C1202,Customer 219,East,West Bengal,Furniture,Table,Table,9,37241.73,23375.42,13866.31,20,December,2025,37.23%
+ORD10638,22-04-2025,C1037,Customer 151,West,Maharashtra,Office Supplies,Pen,Pen,6,49798.93,25643.66,24155.27,10,April,2025,48.51%
+ORD10639,27-11-2025,C1298,Customer 93,North,Punjab,Technology,Keyboard,Keyboard,8,38173.47,28311.6,9861.87,0,November,2025,25.83%
+ORD10640,17-09-2025,C1137,Customer 221,West,Gujarat,Office Supplies,Pen,Pen,5,30046.06,25813.12,4232.94,20,September,2025,14.09%
+ORD10641,02-07-2025,C1027,Customer 103,East,West Bengal,Office Supplies,Binder,Binder,9,23839.58,13136.81,10702.77,0,July,2025,44.89%
+ORD10642,11-07-2025,C1195,Customer 260,East,Odisha,Technology,Mouse,Mouse,8,49116.93,31401.84,17715.09,10,July,2025,36.07%
+ORD10643,08-02-2025,C1206,Customer 178,East,Odisha,Office Supplies,Pen,Pen,7,47405.77,30475.76,16930.01,10,February,2025,35.71%
+ORD10644,02-11-2025,C1247,Customer 85,East,Odisha,Furniture,Table,Table,2,44778.38,25951.63,18826.75,0,November,2025,42.04%
+ORD10645,21-10-2025,C1184,Customer 223,West,Maharashtra,Office Supplies,Paper,Paper,1,35201.97,21515.45,13686.52,10,October,2025,38.88%
+ORD10646,10-01-2025,C1179,Customer 187,West,Maharashtra,Technology,Keyboard,Keyboard,9,39244.89,22598.08,16646.81,15,January,2025,42.42%
+ORD10647,21-04-2025,C1054,Customer 32,East,Odisha,Furniture,Chair,Chair,7,31255.95,21624.91,9631.04,20,April,2025,30.81%
+ORD10648,19-12-2025,C1223,Customer 229,South,Karnataka,Office Supplies,Paper,Paper,6,14809.27,9093.46,5715.81,15,December,2025,38.60%
+ORD10649,10-07-2025,C1217,Customer 161,South,Kerala,Furniture,Table,Table,7,5131.53,3232.24,1899.29,0,July,2025,37.01%
+ORD10650,16-04-2025,C1167,Customer 252,East,West Bengal,Furniture,Chair,Chair,7,15442.98,7917.31,7525.67,5,April,2025,48.73%
+ORD10651,09-10-2025,C1159,Customer 234,East,Odisha,Furniture,Chair,Chair,2,3406.73,1914.74,1491.99,15,October,2025,43.80%
+ORD10652,09-07-2025,C1030,Customer 135,North,Punjab,Furniture,Table,Table,8,6178.23,5476.32,701.91,10,July,2025,11.36%
+ORD10653,02-07-2025,C1088,Customer 66,West,Maharashtra,Furniture,Table,Table,7,40808.99,33424.67,7384.32,0,July,2025,18.09%
+ORD10654,06-09-2025,C1012,Customer 179,West,Gujarat,Technology,Keyboard,Keyboard,3,48270.6,35130.72,13139.88,20,September,2025,27.22%
+ORD10655,17-06-2025,C1140,Customer 149,West,Maharashtra,Office Supplies,Pen,Pen,7,41180.05,26343.59,14836.46,5,June,2025,36.03%
+ORD10656,27-02-2025,C1114,Customer 16,East,Odisha,Furniture,Table,Table,1,25480.9,19688,5792.9,15,February,2025,22.73%
+ORD10657,28-08-2025,C1247,Customer 240,East,West Bengal,Office Supplies,Pen,Pen,2,35929.96,24083.04,11846.92,15,August,2025,32.97%
+ORD10658,13-03-2025,C1134,Customer 46,South,Tamil Nadu,Technology,Laptop,Laptop,3,42354.95,32006.82,10348.13,10,March,2025,24.43%
+ORD10659,01-03-2025,C1178,Customer 108,South,Karnataka,Technology,Keyboard,Keyboard,7,3013.31,2568.47,444.84,10,March,2025,14.76%
+ORD10660,25-07-2025,C1205,Customer 220,West,Maharashtra,Furniture,Chair,Chair,1,15450.98,10440.88,5010.1,15,July,2025,32.43%
+ORD10661,02-05-2025,C1095,Customer 94,North,Delhi,Office Supplies,Paper,Paper,6,33446.23,25173.81,8272.42,10,May,2025,24.73%
+ORD10662,31-03-2025,C1166,Customer 266,West,Gujarat,Technology,Mouse,Mouse,9,44371.94,33720.89,10651.05,10,March,2025,24.00%
+ORD10663,14-12-2025,C1171,Customer 261,East,Odisha,Furniture,Table,Table,5,21046.66,17914.45,3132.21,0,December,2025,14.88%
+ORD10664,24-01-2025,C1209,Customer 93,South,Kerala,Furniture,Chair,Chair,7,4778.84,3350.15,1428.69,5,January,2025,29.90%
+ORD10665,24-09-2025,C1149,Customer 211,North,Delhi,Office Supplies,Paper,Paper,4,15494.53,12286.82,3207.71,10,September,2025,20.70%
+ORD10666,02-02-2025,C1009,Customer 71,South,Karnataka,Furniture,Table,Table,4,23485.04,15736.45,7748.59,15,February,2025,32.99%
+ORD10667,25-10-2025,C1284,Customer 148,East,West Bengal,Furniture,Table,Table,2,27833.82,17022.08,10811.74,20,October,2025,38.84%
+ORD10668,26-02-2025,C1223,Customer 34,West,Gujarat,Office Supplies,Paper,Paper,6,39780.19,28021.65,11758.54,20,February,2025,29.56%
+ORD10669,29-08-2025,C1157,Customer 259,East,Odisha,Office Supplies,Paper,Paper,4,5299.1,3636.43,1662.67,15,August,2025,31.38%
+ORD10670,28-07-2025,C1289,Customer 162,North,Delhi,Office Supplies,Paper,Paper,4,20154.95,10943.3,9211.65,10,July,2025,45.70%
+ORD10671,10-07-2025,C1075,Customer 153,East,West Bengal,Office Supplies,Binder,Binder,8,11273.17,6277.55,4995.62,10,July,2025,44.31%
+ORD10672,05-06-2025,C1238,Customer 27,West,Gujarat,Office Supplies,Pen,Pen,7,34207.23,25733.07,8474.16,15,June,2025,24.77%
+ORD10673,10-10-2025,C1055,Customer 55,South,Kerala,Technology,Keyboard,Keyboard,1,34549.9,27036.85,7513.05,15,October,2025,21.75%
+ORD10674,03-11-2025,C1205,Customer 33,South,Kerala,Office Supplies,Paper,Paper,7,41976.86,30292.09,11684.77,10,November,2025,27.84%
+ORD10675,10-05-2025,C1243,Customer 183,West,Maharashtra,Office Supplies,Binder,Binder,9,23299.41,17351.32,5948.09,15,May,2025,25.53%
+ORD10676,04-04-2025,C1294,Customer 15,North,Punjab,Technology,Laptop,Laptop,5,15609.98,10905.66,4704.32,15,April,2025,30.14%
+ORD10677,22-04-2025,C1223,Customer 26,North,Punjab,Office Supplies,Binder,Binder,9,48674.48,27119.29,21555.19,5,April,2025,44.28%
+ORD10678,20-08-2025,C1186,Customer 121,South,Kerala,Technology,Keyboard,Keyboard,5,26422.98,17957.65,8465.33,20,August,2025,32.04%
+ORD10679,27-04-2025,C1273,Customer 99,North,Delhi,Office Supplies,Pen,Pen,5,27041.65,21716.87,5324.78,5,April,2025,19.69%
+ORD10680,09-07-2025,C1052,Customer 237,North,Punjab,Furniture,Chair,Chair,6,13498.24,8358.44,5139.8,0,July,2025,38.08%
+ORD10681,15-10-2025,C1028,Customer 123,South,Kerala,Office Supplies,Binder,Binder,3,29601.15,23479.73,6121.42,5,October,2025,20.68%
+ORD10682,19-07-2025,C1008,Customer 69,West,Maharashtra,Furniture,Chair,Chair,2,13796.35,9767.05,4029.3,20,July,2025,29.21%
+ORD10683,23-05-2025,C1292,Customer 204,South,Tamil Nadu,Technology,Laptop,Laptop,1,34715.49,19074.11,15641.38,20,May,2025,45.06%
+ORD10684,26-03-2025,C1019,Customer 208,East,Odisha,Office Supplies,Binder,Binder,7,9721.27,8007.47,1713.8,5,March,2025,17.63%
+ORD10685,27-10-2025,C1274,Customer 79,East,West Bengal,Technology,Mouse,Mouse,4,44238.28,27218.44,17019.84,10,October,2025,38.47%
+ORD10686,15-08-2025,C1285,Customer 4,South,Karnataka,Office Supplies,Paper,Paper,3,26047.94,14995.78,11052.16,5,August,2025,42.43%
+ORD10687,03-02-2025,C1100,Customer 138,North,Punjab,Technology,Mouse,Mouse,2,31224.49,24013.24,7211.25,15,February,2025,23.09%
+ORD10688,23-07-2025,C1069,Customer 94,North,Delhi,Office Supplies,Pen,Pen,7,28900.64,22720.36,6180.28,10,July,2025,21.38%
+ORD10689,29-04-2025,C1298,Customer 237,East,West Bengal,Furniture,Table,Table,3,25191.13,14043.41,11147.72,5,April,2025,44.25%
+ORD10690,10-06-2025,C1019,Customer 273,South,Karnataka,Furniture,Table,Table,7,26185.34,15433.49,10751.85,10,June,2025,41.06%
+ORD10691,22-01-2025,C1025,Customer 141,East,Odisha,Technology,Keyboard,Keyboard,9,27859.35,16470.56,11388.79,15,January,2025,40.88%
+ORD10692,26-05-2025,C1017,Customer 123,East,Odisha,Office Supplies,Pen,Pen,6,7534.08,6193.31,1340.77,0,May,2025,17.80%
+ORD10693,27-02-2025,C1286,Customer 9,West,Gujarat,Technology,Laptop,Laptop,5,20175.65,13814.97,6360.68,0,February,2025,31.53%
+ORD10694,06-07-2025,C1163,Customer 288,East,West Bengal,Office Supplies,Paper,Paper,8,24392.79,20352.32,4040.47,20,July,2025,16.56%
+ORD10695,18-02-2025,C1156,Customer 194,East,West Bengal,Technology,Keyboard,Keyboard,8,10406.98,6881.73,3525.25,15,February,2025,33.87%
+ORD10696,18-02-2025,C1008,Customer 74,South,Tamil Nadu,Office Supplies,Pen,Pen,6,36115.79,28516.58,7599.21,10,February,2025,21.04%
+ORD10697,25-12-2025,C1035,Customer 89,West,Gujarat,Technology,Mouse,Mouse,7,4235.97,3096.71,1139.26,0,December,2025,26.89%
+ORD10698,26-03-2025,C1155,Customer 34,North,Delhi,Technology,Laptop,Laptop,4,9081.24,4890.64,4190.6,15,March,2025,46.15%
+ORD10699,04-05-2025,C1102,Customer 298,South,Karnataka,Furniture,Table,Table,4,28105.57,23474.49,4631.08,20,May,2025,16.48%
+ORD10700,02-05-2025,C1078,Customer 20,South,Tamil Nadu,Technology,Keyboard,Keyboard,4,39079.97,27267.05,11812.92,5,May,2025,30.23%
+ORD10701,07-08-2025,C1134,Customer 51,North,Delhi,Technology,Mouse,Mouse,2,24728.12,17746.74,6981.38,10,August,2025,28.23%
+ORD10702,12-11-2025,C1083,Customer 99,East,Odisha,Office Supplies,Binder,Binder,9,18851.17,12013.04,6838.13,20,November,2025,36.27%
+ORD10703,19-09-2025,C1245,Customer 121,South,Kerala,Furniture,Chair,Chair,5,9785.43,7037.05,2748.38,15,September,2025,28.09%
+ORD10704,27-01-2025,C1232,Customer 224,North,Punjab,Office Supplies,Binder,Binder,10,34455.96,17321.69,17134.27,15,January,2025,49.73%
+ORD10705,15-06-2025,C1050,Customer 222,East,West Bengal,Furniture,Table,Table,6,8793.94,6671.5,2122.44,20,June,2025,24.14%
+ORD10706,04-12-2025,C1084,Customer 78,South,Karnataka,Technology,Laptop,Laptop,10,7065.08,5243.59,1821.49,15,December,2025,25.78%
+ORD10707,02-05-2025,C1099,Customer 274,North,Punjab,Technology,Laptop,Laptop,3,26998.28,23883.48,3114.8,5,May,2025,11.54%
+ORD10708,23-02-2025,C1066,Customer 107,East,Odisha,Furniture,Table,Table,2,42551.33,26753.07,15798.26,20,February,2025,37.13%
+ORD10709,15-10-2025,C1287,Customer 63,West,Gujarat,Technology,Laptop,Laptop,9,9225.44,5965.17,3260.27,15,October,2025,35.34%
+ORD10710,04-07-2025,C1232,Customer 94,North,Delhi,Technology,Keyboard,Keyboard,5,34464.05,26745.01,7719.04,10,July,2025,22.40%
+ORD10711,16-06-2025,C1124,Customer 230,West,Gujarat,Technology,Keyboard,Keyboard,10,49862.25,27062.79,22799.46,5,June,2025,45.72%
+ORD10712,04-09-2025,C1283,Customer 176,East,Odisha,Technology,Mouse,Mouse,3,18291.77,16113.95,2177.82,0,September,2025,11.91%
+ORD10713,30-06-2025,C1142,Customer 133,East,West Bengal,Furniture,Chair,Chair,1,46141.05,40720.16,5420.89,15,June,2025,11.75%
+ORD10714,31-08-2025,C1180,Customer 197,South,Tamil Nadu,Furniture,Chair,Chair,7,22646.09,15234.45,7411.64,10,August,2025,32.73%
+ORD10715,02-11-2025,C1028,Customer 64,South,Tamil Nadu,Furniture,Chair,Chair,3,16234.93,13968.98,2265.95,20,November,2025,13.96%
+ORD10716,04-06-2025,C1108,Customer 145,West,Gujarat,Furniture,Chair,Chair,4,11866.35,6705.86,5160.49,5,June,2025,43.49%
+ORD10717,27-02-2025,C1235,Customer 198,East,Odisha,Office Supplies,Pen,Pen,10,7658.74,5998.97,1659.77,10,February,2025,21.67%
+ORD10718,18-03-2025,C1261,Customer 279,South,Karnataka,Technology,Mouse,Mouse,2,26737.14,22346.25,4390.89,0,March,2025,16.42%
+ORD10719,21-04-2025,C1161,Customer 272,South,Kerala,Office Supplies,Pen,Pen,8,29687.09,22797.08,6890.01,20,April,2025,23.21%
+ORD10720,21-11-2025,C1017,Customer 150,West,Gujarat,Office Supplies,Pen,Pen,1,2688.14,2379.55,308.59,5,November,2025,11.48%
+ORD10721,12-10-2025,C1174,Customer 212,North,Delhi,Technology,Keyboard,Keyboard,4,20153.04,13050.54,7102.5,20,October,2025,35.24%
+ORD10722,21-04-2025,C1297,Customer 243,West,Gujarat,Office Supplies,Binder,Binder,3,30889.58,21069.71,9819.87,10,April,2025,31.79%
+ORD10723,16-12-2025,C1154,Customer 214,North,Punjab,Furniture,Table,Table,3,16385.44,14634.4,1751.04,20,December,2025,10.69%
+ORD10724,13-04-2025,C1191,Customer 126,North,Punjab,Office Supplies,Paper,Paper,2,1767.47,1094.19,673.28,15,April,2025,38.09%
+ORD10725,16-12-2025,C1293,Customer 68,East,Odisha,Office Supplies,Pen,Pen,1,30960.81,23289.82,7670.99,0,December,2025,24.78%
+ORD10726,26-08-2025,C1107,Customer 170,East,Odisha,Office Supplies,Binder,Binder,4,37264.01,22667.81,14596.2,15,August,2025,39.17%
+ORD10727,07-10-2025,C1187,Customer 39,West,Maharashtra,Furniture,Table,Table,2,24125.54,21153.97,2971.57,0,October,2025,12.32%
+ORD10728,20-12-2025,C1018,Customer 38,East,West Bengal,Furniture,Chair,Chair,7,39747.82,34975.14,4772.68,5,December,2025,12.01%
+ORD10729,27-07-2025,C1114,Customer 190,East,West Bengal,Technology,Keyboard,Keyboard,6,34097.76,18161.7,15936.06,10,July,2025,46.74%
+ORD10730,11-02-2025,C1251,Customer 248,West,Maharashtra,Technology,Mouse,Mouse,8,2168.59,1154.63,1013.96,15,February,2025,46.76%
+ORD10731,29-12-2025,C1064,Customer 226,South,Karnataka,Office Supplies,Pen,Pen,1,19487.53,13250.04,6237.49,20,December,2025,32.01%
+ORD10732,01-06-2025,C1127,Customer 35,East,West Bengal,Technology,Keyboard,Keyboard,5,29654.88,22825.59,6829.29,5,June,2025,23.03%
+ORD10733,15-05-2025,C1239,Customer 199,West,Gujarat,Furniture,Chair,Chair,7,37738.46,30477.32,7261.14,5,May,2025,19.24%
+ORD10734,06-06-2025,C1002,Customer 220,West,Maharashtra,Office Supplies,Pen,Pen,4,38467.79,33245.53,5222.26,0,June,2025,13.58%
+ORD10735,07-07-2025,C1074,Customer 180,East,Odisha,Furniture,Table,Table,2,19088.4,15355.08,3733.32,15,July,2025,19.56%
+ORD10736,14-12-2025,C1183,Customer 37,North,Punjab,Technology,Laptop,Laptop,5,16731.93,14360.95,2370.98,5,December,2025,14.17%
+ORD10737,02-12-2025,C1022,Customer 243,East,Odisha,Office Supplies,Pen,Pen,4,20475.58,17990.96,2484.62,0,December,2025,12.13%
+ORD10738,13-09-2025,C1149,Customer 117,West,Maharashtra,Furniture,Table,Table,7,11974.16,7412.02,4562.14,0,September,2025,38.10%
+ORD10739,10-03-2025,C1221,Customer 254,South,Tamil Nadu,Furniture,Chair,Chair,2,44987.32,40367.79,4619.53,15,March,2025,10.27%
+ORD10740,23-08-2025,C1064,Customer 195,South,Karnataka,Furniture,Table,Table,10,28368.82,18928.26,9440.56,10,August,2025,33.28%
+ORD10741,13-07-2025,C1213,Customer 242,North,Delhi,Furniture,Table,Table,1,47861.32,40826.29,7035.03,0,July,2025,14.70%
+ORD10742,05-11-2025,C1063,Customer 111,South,Karnataka,Office Supplies,Pen,Pen,5,30251.66,25689.44,4562.22,5,November,2025,15.08%
+ORD10743,13-01-2025,C1295,Customer 51,East,West Bengal,Office Supplies,Pen,Pen,1,5638.52,4332.64,1305.88,20,January,2025,23.16%
+ORD10744,29-08-2025,C1075,Customer 6,North,Punjab,Office Supplies,Pen,Pen,6,22875.55,20069.73,2805.82,10,August,2025,12.27%
+ORD10745,18-08-2025,C1190,Customer 261,North,Delhi,Office Supplies,Paper,Paper,6,30692.18,19709.68,10982.5,10,August,2025,35.78%
+ORD10746,22-03-2025,C1073,Customer 56,South,Kerala,Office Supplies,Pen,Pen,7,6801.65,5572.64,1229.01,10,March,2025,18.07%
+ORD10747,08-12-2025,C1297,Customer 187,South,Karnataka,Furniture,Chair,Chair,5,13721.63,7977.96,5743.67,5,December,2025,41.86%
+ORD10748,01-11-2025,C1093,Customer 173,East,Odisha,Furniture,Chair,Chair,4,36966.92,19710.03,17256.89,15,November,2025,46.68%
+ORD10749,19-12-2025,C1004,Customer 216,West,Gujarat,Furniture,Chair,Chair,8,19262.32,11937.69,7324.63,5,December,2025,38.03%
+ORD10750,23-01-2025,C1036,Customer 221,South,Karnataka,Furniture,Chair,Chair,4,30123.3,23809.46,6313.84,0,January,2025,20.96%
+ORD10751,22-09-2025,C1217,Customer 51,East,West Bengal,Office Supplies,Binder,Binder,4,46341.85,32840.76,13501.09,0,September,2025,29.13%
+ORD10752,21-06-2025,C1171,Customer 177,South,Tamil Nadu,Office Supplies,Pen,Pen,10,15092.36,9898.7,5193.66,0,June,2025,34.41%
+ORD10753,22-09-2025,C1032,Customer 84,North,Delhi,Furniture,Table,Table,2,34720.22,19299.94,15420.28,0,September,2025,44.41%
+ORD10754,17-01-2025,C1222,Customer 18,East,Odisha,Furniture,Table,Table,4,18301.73,15153.59,3148.14,10,January,2025,17.20%
+ORD10755,18-01-2025,C1067,Customer 88,South,Tamil Nadu,Furniture,Chair,Chair,9,4558.72,2385.32,2173.4,20,January,2025,47.68%
+ORD10756,23-12-2025,C1068,Customer 158,South,Kerala,Furniture,Table,Table,9,29962.97,17809.14,12153.83,0,December,2025,40.56%
+ORD10757,11-08-2025,C1233,Customer 233,East,West Bengal,Furniture,Table,Table,5,844.13,712.16,131.97,5,August,2025,15.63%
+ORD10758,03-12-2025,C1099,Customer 13,West,Maharashtra,Technology,Laptop,Laptop,8,10465.37,7309.66,3155.71,10,December,2025,30.15%
+ORD10759,29-11-2025,C1035,Customer 156,East,West Bengal,Office Supplies,Pen,Pen,9,30095.37,26567.73,3527.64,0,November,2025,11.72%
+ORD10760,19-05-2025,C1174,Customer 291,South,Karnataka,Furniture,Chair,Chair,9,34001.37,27104.2,6897.17,5,May,2025,20.28%
+ORD10761,24-10-2025,C1262,Customer 166,East,West Bengal,Office Supplies,Paper,Paper,6,11920.37,10035.73,1884.64,15,October,2025,15.81%
+ORD10762,11-08-2025,C1269,Customer 299,East,Odisha,Technology,Mouse,Mouse,2,15082.05,8549.93,6532.12,10,August,2025,43.31%
+ORD10763,16-12-2025,C1233,Customer 38,North,Delhi,Furniture,Chair,Chair,4,48708.97,43647.6,5061.37,20,December,2025,10.39%
+ORD10764,01-09-2025,C1079,Customer 39,East,Odisha,Office Supplies,Binder,Binder,2,24254.03,13738.89,10515.14,20,September,2025,43.35%
+ORD10765,07-10-2025,C1143,Customer 90,East,West Bengal,Furniture,Table,Table,7,15478.79,11688.77,3790.02,5,October,2025,24.49%
+ORD10766,17-07-2025,C1158,Customer 185,North,Punjab,Furniture,Table,Table,8,13877.51,11086.94,2790.57,10,July,2025,20.11%
+ORD10767,02-04-2025,C1168,Customer 98,South,Tamil Nadu,Technology,Laptop,Laptop,9,21490.54,14449.89,7040.65,5,April,2025,32.76%
+ORD10768,11-12-2025,C1013,Customer 187,East,West Bengal,Furniture,Chair,Chair,3,45069.62,23064.75,22004.87,10,December,2025,48.82%
+ORD10769,10-01-2025,C1177,Customer 170,East,Odisha,Technology,Mouse,Mouse,4,14904.36,8269.59,6634.77,0,January,2025,44.52%
+ORD10770,18-01-2025,C1175,Customer 4,North,Punjab,Technology,Keyboard,Keyboard,10,34082.15,28937.53,5144.62,0,January,2025,15.09%
+ORD10771,25-09-2025,C1107,Customer 152,West,Maharashtra,Office Supplies,Paper,Paper,5,29051.33,19759.5,9291.83,10,September,2025,31.98%
+ORD10772,01-03-2025,C1073,Customer 264,North,Delhi,Furniture,Chair,Chair,2,23295.6,19481.73,3813.87,20,March,2025,16.37%
+ORD10773,02-04-2025,C1133,Customer 62,West,Maharashtra,Furniture,Table,Table,7,33684.67,25340.42,8344.25,5,April,2025,24.77%
+ORD10774,01-03-2025,C1236,Customer 32,North,Delhi,Office Supplies,Binder,Binder,10,38908.34,28193.35,10714.99,15,March,2025,27.54%
+ORD10775,13-01-2025,C1169,Customer 225,North,Punjab,Furniture,Table,Table,6,33690.15,23545.23,10144.92,10,January,2025,30.11%
+ORD10776,17-01-2025,C1144,Customer 52,East,West Bengal,Office Supplies,Paper,Paper,2,39252.17,32664.27,6587.9,15,January,2025,16.78%
+ORD10777,14-05-2025,C1215,Customer 14,East,West Bengal,Office Supplies,Binder,Binder,9,37623.44,23303.2,14320.24,10,May,2025,38.06%
+ORD10778,21-01-2025,C1101,Customer 266,South,Tamil Nadu,Technology,Laptop,Laptop,8,18526.4,10281.46,8244.94,20,January,2025,44.50%
+ORD10779,05-05-2025,C1245,Customer 262,North,Delhi,Office Supplies,Binder,Binder,5,16713.68,12583.85,4129.83,10,May,2025,24.71%
+ORD10780,30-12-2025,C1232,Customer 298,West,Maharashtra,Furniture,Table,Table,8,47664.95,42273.77,5391.18,20,December,2025,11.31%
+ORD10781,31-12-2025,C1015,Customer 152,East,Odisha,Furniture,Chair,Chair,6,24509.91,14404.89,10105.02,0,December,2025,41.23%
+ORD10782,22-05-2025,C1068,Customer 55,North,Punjab,Furniture,Table,Table,5,990.25,781.21,209.04,0,May,2025,21.11%
+ORD10783,18-07-2025,C1203,Customer 228,East,Odisha,Technology,Keyboard,Keyboard,5,28165.56,15950.83,12214.73,15,July,2025,43.37%
+ORD10784,16-06-2025,C1233,Customer 135,East,West Bengal,Furniture,Chair,Chair,2,46608.97,37832.65,8776.32,0,June,2025,18.83%
+ORD10785,28-01-2025,C1109,Customer 122,South,Tamil Nadu,Technology,Laptop,Laptop,6,31977.01,20403.01,11574,5,January,2025,36.19%
+ORD10786,07-02-2025,C1282,Customer 219,East,Odisha,Technology,Keyboard,Keyboard,7,43100.55,22005.8,21094.75,10,February,2025,48.94%
+ORD10787,27-11-2025,C1093,Customer 101,West,Gujarat,Technology,Laptop,Laptop,6,12261.13,8044.51,4216.62,10,November,2025,34.39%
+ORD10788,04-01-2025,C1214,Customer 133,North,Punjab,Furniture,Chair,Chair,7,13898.79,8146.18,5752.61,0,January,2025,41.39%
+ORD10789,20-03-2025,C1085,Customer 280,East,West Bengal,Office Supplies,Binder,Binder,2,28604.36,18197.69,10406.67,5,March,2025,36.38%
+ORD10790,29-07-2025,C1179,Customer 294,South,Kerala,Furniture,Table,Table,10,8497.76,5638.4,2859.36,0,July,2025,33.65%
+ORD10791,05-06-2025,C1062,Customer 20,South,Kerala,Technology,Laptop,Laptop,5,25030.43,16485.18,8545.25,5,June,2025,34.14%
+ORD10792,10-10-2025,C1214,Customer 172,North,Punjab,Office Supplies,Binder,Binder,6,25422.16,18104.69,7317.47,10,October,2025,28.78%
+ORD10793,09-08-2025,C1109,Customer 225,East,West Bengal,Technology,Keyboard,Keyboard,2,38745.49,28905.04,9840.45,20,August,2025,25.40%
+ORD10794,29-08-2025,C1224,Customer 184,South,Kerala,Furniture,Table,Table,3,8787.57,5350.81,3436.76,10,August,2025,39.11%
+ORD10795,04-05-2025,C1101,Customer 113,South,Kerala,Furniture,Table,Table,3,3479.53,2916.99,562.54,20,May,2025,16.17%
+ORD10796,12-02-2025,C1018,Customer 47,South,Kerala,Furniture,Chair,Chair,2,42311.89,21411.38,20900.51,10,February,2025,49.40%
+ORD10797,25-07-2025,C1093,Customer 100,West,Maharashtra,Office Supplies,Binder,Binder,1,18277.2,10762.48,7514.72,5,July,2025,41.12%
+ORD10798,23-01-2025,C1252,Customer 185,North,Delhi,Furniture,Chair,Chair,1,16555.43,9227.33,7328.1,20,January,2025,44.26%
+ORD10799,10-06-2025,C1131,Customer 135,West,Gujarat,Office Supplies,Binder,Binder,3,40566.67,35553.26,5013.41,15,June,2025,12.36%
+ORD10800,26-07-2025,C1093,Customer 209,East,Odisha,Technology,Laptop,Laptop,8,32889.03,17218.12,15670.91,5,July,2025,47.65%
+ORD10801,20-12-2025,C1211,Customer 92,East,Odisha,Furniture,Table,Table,6,8085.09,4989.01,3096.08,0,December,2025,38.29%
+ORD10802,10-10-2025,C1124,Customer 219,South,Kerala,Office Supplies,Pen,Pen,5,42869.11,37307.54,5561.57,0,October,2025,12.97%
+ORD10803,02-09-2025,C1072,Customer 109,South,Kerala,Technology,Mouse,Mouse,1,9085.44,8071.43,1014.01,20,September,2025,11.16%
+ORD10804,21-07-2025,C1162,Customer 69,East,West Bengal,Technology,Laptop,Laptop,8,45687.74,38742.47,6945.27,15,July,2025,15.20%
+ORD10805,14-07-2025,C1042,Customer 281,West,Gujarat,Office Supplies,Binder,Binder,2,31457.05,25517.64,5939.41,10,July,2025,18.88%
+ORD10806,26-04-2025,C1257,Customer 259,West,Maharashtra,Office Supplies,Binder,Binder,4,35127.46,25350.1,9777.36,10,April,2025,27.83%
+ORD10807,27-03-2025,C1212,Customer 182,North,Punjab,Technology,Mouse,Mouse,3,13108.14,11339.4,1768.74,0,March,2025,13.49%
+ORD10808,04-11-2025,C1131,Customer 105,East,West Bengal,Office Supplies,Binder,Binder,2,32776.94,22994.99,9781.95,20,November,2025,29.84%
+ORD10809,02-11-2025,C1140,Customer 121,West,Gujarat,Furniture,Table,Table,1,25115.01,15651.08,9463.93,20,November,2025,37.68%
+ORD10810,08-02-2025,C1203,Customer 198,North,Punjab,Furniture,Chair,Chair,9,38221.44,29353.39,8868.05,5,February,2025,23.20%
+ORD10811,05-07-2025,C1230,Customer 114,North,Punjab,Technology,Laptop,Laptop,4,16723.13,13751.15,2971.98,0,July,2025,17.77%
+ORD10812,07-02-2025,C1275,Customer 50,North,Delhi,Furniture,Table,Table,1,5044.21,3021.35,2022.86,20,February,2025,40.10%
+ORD10813,14-10-2025,C1012,Customer 130,West,Gujarat,Furniture,Table,Table,10,47675.46,26199.11,21476.35,15,October,2025,45.05%
+ORD10814,06-03-2025,C1198,Customer 108,West,Maharashtra,Office Supplies,Paper,Paper,10,42908.59,37387.24,5521.35,0,March,2025,12.87%
+ORD10815,22-10-2025,C1099,Customer 233,East,Odisha,Technology,Laptop,Laptop,9,23485.19,16492.68,6992.51,20,October,2025,29.77%
+ORD10816,21-11-2025,C1177,Customer 244,West,Maharashtra,Office Supplies,Pen,Pen,3,29239.29,23981.58,5257.71,15,November,2025,17.98%
+ORD10817,22-06-2025,C1134,Customer 213,West,Maharashtra,Technology,Laptop,Laptop,9,29029.49,23560.71,5468.78,20,June,2025,18.84%
+ORD10818,11-03-2025,C1295,Customer 31,North,Punjab,Technology,Mouse,Mouse,7,20961.95,15506.72,5455.23,5,March,2025,26.02%
+ORD10819,10-06-2025,C1097,Customer 36,North,Punjab,Furniture,Table,Table,5,13237.62,11872.16,1365.46,20,June,2025,10.31%
+ORD10820,20-08-2025,C1028,Customer 57,South,Tamil Nadu,Technology,Mouse,Mouse,6,35684.12,18461.84,17222.28,15,August,2025,48.26%
+ORD10821,07-09-2025,C1256,Customer 118,East,Odisha,Office Supplies,Paper,Paper,5,38313.86,31825.14,6488.72,10,September,2025,16.94%
+ORD10822,02-11-2025,C1090,Customer 203,West,Maharashtra,Furniture,Table,Table,5,17336.55,9882.69,7453.86,5,November,2025,43.00%
+ORD10823,28-05-2025,C1233,Customer 274,South,Tamil Nadu,Office Supplies,Binder,Binder,6,45628.35,25059.22,20569.13,5,May,2025,45.08%
+ORD10824,24-09-2025,C1107,Customer 210,South,Kerala,Technology,Mouse,Mouse,3,39845.57,31286.78,8558.79,5,September,2025,21.48%
+ORD10825,19-04-2025,C1270,Customer 185,South,Kerala,Office Supplies,Paper,Paper,9,32918.68,18983.76,13934.92,0,April,2025,42.33%
+ORD10826,11-02-2025,C1290,Customer 210,North,Delhi,Office Supplies,Paper,Paper,2,23147.13,19224.16,3922.97,10,February,2025,16.95%
+ORD10827,27-01-2025,C1006,Customer 70,South,Kerala,Office Supplies,Pen,Pen,7,5381.38,3586.68,1794.7,10,January,2025,33.35%
+ORD10828,15-06-2025,C1178,Customer 286,East,Odisha,Furniture,Chair,Chair,9,783.83,661.37,122.46,5,June,2025,15.62%
+ORD10829,27-10-2025,C1094,Customer 201,South,Kerala,Technology,Keyboard,Keyboard,4,40329.47,26095.18,14234.29,15,October,2025,35.30%
+ORD10830,17-08-2025,C1031,Customer 87,West,Gujarat,Furniture,Table,Table,8,46664.91,23876.19,22788.72,20,August,2025,48.83%
+ORD10831,26-09-2025,C1094,Customer 50,West,Gujarat,Office Supplies,Binder,Binder,7,33380.03,26823.27,6556.76,10,September,2025,19.64%
+ORD10832,02-07-2025,C1145,Customer 96,North,Punjab,Furniture,Chair,Chair,6,32984.35,23508.48,9475.87,10,July,2025,28.73%
+ORD10833,09-09-2025,C1170,Customer 224,North,Delhi,Furniture,Table,Table,7,10877.18,8978.94,1898.24,20,September,2025,17.45%
+ORD10834,21-04-2025,C1244,Customer 14,West,Gujarat,Furniture,Table,Table,2,28150.82,20354.55,7796.27,20,April,2025,27.69%
+ORD10835,16-08-2025,C1230,Customer 184,North,Delhi,Office Supplies,Pen,Pen,5,31295.27,19294.78,12000.49,20,August,2025,38.35%
+ORD10836,19-06-2025,C1033,Customer 281,North,Delhi,Furniture,Table,Table,2,22121.21,18623.07,3498.14,15,June,2025,15.81%
+ORD10837,03-05-2025,C1168,Customer 226,South,Tamil Nadu,Technology,Laptop,Laptop,4,7540.96,6602.45,938.51,5,May,2025,12.45%
+ORD10838,03-12-2025,C1248,Customer 185,West,Gujarat,Office Supplies,Paper,Paper,9,5716.15,3364.04,2352.11,15,December,2025,41.15%
+ORD10839,18-03-2025,C1168,Customer 162,South,Kerala,Furniture,Chair,Chair,6,3607.42,2471.49,1135.93,20,March,2025,31.49%
+ORD10840,17-02-2025,C1067,Customer 274,South,Kerala,Technology,Laptop,Laptop,4,45268.06,27077.35,18190.71,15,February,2025,40.18%
+ORD10841,15-04-2025,C1005,Customer 262,East,West Bengal,Office Supplies,Pen,Pen,3,5830.14,3758.62,2071.52,5,April,2025,35.53%
+ORD10842,10-11-2025,C1231,Customer 38,West,Maharashtra,Technology,Laptop,Laptop,3,1774.62,1433.39,341.23,15,November,2025,19.23%
+ORD10843,25-09-2025,C1072,Customer 147,East,West Bengal,Technology,Mouse,Mouse,4,35184.22,24086.25,11097.97,0,September,2025,31.54%
+ORD10844,28-06-2025,C1291,Customer 18,North,Delhi,Office Supplies,Paper,Paper,8,38320.79,22635.91,15684.88,5,June,2025,40.93%
+ORD10845,05-04-2025,C1155,Customer 58,East,West Bengal,Office Supplies,Paper,Paper,3,24361.06,21900.35,2460.71,5,April,2025,10.10%
+ORD10846,19-06-2025,C1031,Customer 160,North,Delhi,Office Supplies,Pen,Pen,2,46685.19,24585.03,22100.16,0,June,2025,47.34%
+ORD10847,14-11-2025,C1186,Customer 259,North,Punjab,Furniture,Chair,Chair,4,49000.53,27305.42,21695.11,15,November,2025,44.28%
+ORD10848,11-03-2025,C1208,Customer 212,South,Tamil Nadu,Office Supplies,Paper,Paper,6,16620.82,9043.25,7577.57,20,March,2025,45.59%
+ORD10849,24-07-2025,C1060,Customer 109,North,Delhi,Technology,Laptop,Laptop,7,49908.07,34207.55,15700.52,10,July,2025,31.46%
+ORD10850,24-02-2025,C1112,Customer 85,West,Maharashtra,Office Supplies,Pen,Pen,3,32091.43,16987.17,15104.26,10,February,2025,47.07%
+ORD10851,02-09-2025,C1279,Customer 81,West,Gujarat,Office Supplies,Paper,Paper,4,3226.28,1749.1,1477.18,20,September,2025,45.79%
+ORD10852,31-03-2025,C1080,Customer 255,East,West Bengal,Furniture,Table,Table,6,31485.28,18751.62,12733.66,10,March,2025,40.44%
+ORD10853,05-05-2025,C1065,Customer 9,North,Delhi,Office Supplies,Pen,Pen,8,47841.09,41817.75,6023.34,0,May,2025,12.59%
+ORD10854,02-11-2025,C1082,Customer 215,South,Karnataka,Office Supplies,Pen,Pen,8,10190.17,8141.4,2048.77,10,November,2025,20.11%
+ORD10855,18-10-2025,C1075,Customer 130,North,Punjab,Technology,Mouse,Mouse,5,35715.44,18329.54,17385.9,0,October,2025,48.68%
+ORD10856,21-11-2025,C1276,Customer 276,South,Tamil Nadu,Technology,Laptop,Laptop,6,33157.85,17237.27,15920.58,0,November,2025,48.01%
+ORD10857,26-04-2025,C1288,Customer 17,East,West Bengal,Office Supplies,Pen,Pen,2,16217.51,14021.04,2196.47,5,April,2025,13.54%
+ORD10858,20-12-2025,C1274,Customer 86,West,Maharashtra,Office Supplies,Pen,Pen,2,24072.86,17759.71,6313.15,15,December,2025,26.23%
+ORD10859,22-02-2025,C1283,Customer 286,South,Kerala,Furniture,Chair,Chair,10,12801.98,9238.65,3563.33,20,February,2025,27.83%
+ORD10860,30-06-2025,C1271,Customer 58,North,Delhi,Office Supplies,Binder,Binder,4,606.81,358.02,248.79,10,June,2025,41.00%
+ORD10861,15-06-2025,C1246,Customer 295,North,Delhi,Furniture,Table,Table,3,38967.26,21705.48,17261.78,0,June,2025,44.30%
+ORD10862,11-07-2025,C1223,Customer 279,West,Maharashtra,Technology,Laptop,Laptop,3,47376.64,32623.86,14752.78,5,July,2025,31.14%
+ORD10863,05-09-2025,C1050,Customer 268,South,Kerala,Technology,Mouse,Mouse,4,21605.43,11845.75,9759.68,5,September,2025,45.17%
+ORD10864,08-05-2025,C1263,Customer 134,West,Gujarat,Furniture,Table,Table,2,44526.23,31782.64,12743.59,0,May,2025,28.62%
+ORD10865,23-06-2025,C1248,Customer 205,East,Odisha,Furniture,Table,Table,4,25643.19,22773.71,2869.48,10,June,2025,11.19%
+ORD10866,18-04-2025,C1049,Customer 215,East,West Bengal,Furniture,Table,Table,2,27948.37,18316.88,9631.49,10,April,2025,34.46%
+ORD10867,12-09-2025,C1003,Customer 211,North,Delhi,Technology,Laptop,Laptop,7,33526.04,23552.57,9973.47,5,September,2025,29.75%
+ORD10868,21-07-2025,C1187,Customer 28,West,Maharashtra,Office Supplies,Binder,Binder,7,14745.9,9401.61,5344.29,15,July,2025,36.24%
+ORD10869,28-03-2025,C1182,Customer 134,North,Punjab,Furniture,Chair,Chair,9,33596.93,19903.78,13693.15,5,March,2025,40.76%
+ORD10870,01-03-2025,C1299,Customer 275,North,Delhi,Office Supplies,Paper,Paper,5,18814.22,10623.52,8190.7,5,March,2025,43.53%
+ORD10871,31-10-2025,C1171,Customer 214,North,Delhi,Furniture,Chair,Chair,1,34929.54,26501.42,8428.12,15,October,2025,24.13%
+ORD10872,19-09-2025,C1238,Customer 145,North,Delhi,Office Supplies,Pen,Pen,6,1183.59,613.83,569.76,0,September,2025,48.14%
+ORD10873,17-06-2025,C1275,Customer 62,South,Kerala,Technology,Mouse,Mouse,8,19598.17,17005.17,2593,5,June,2025,13.23%
+ORD10874,19-04-2025,C1248,Customer 104,South,Karnataka,Technology,Mouse,Mouse,4,882.5,654.37,228.13,0,April,2025,25.85%
+ORD10875,29-11-2025,C1221,Customer 81,East,West Bengal,Office Supplies,Pen,Pen,3,7692.4,5866.91,1825.49,5,November,2025,23.73%
+ORD10876,29-07-2025,C1231,Customer 64,West,Maharashtra,Furniture,Table,Table,10,18735.34,15136.96,3598.38,0,July,2025,19.21%
+ORD10877,11-03-2025,C1024,Customer 190,West,Gujarat,Office Supplies,Binder,Binder,9,34656.9,18949.26,15707.64,0,March,2025,45.32%
+ORD10878,20-06-2025,C1096,Customer 231,East,Odisha,Technology,Laptop,Laptop,1,31878.77,19625.84,12252.93,5,June,2025,38.44%
+ORD10879,05-03-2025,C1069,Customer 41,West,Gujarat,Technology,Mouse,Mouse,7,28749.65,18906.76,9842.89,20,March,2025,34.24%
+ORD10880,06-08-2025,C1068,Customer 92,East,West Bengal,Office Supplies,Paper,Paper,4,47995.02,29897.28,18097.74,15,August,2025,37.71%
+ORD10881,21-12-2025,C1057,Customer 173,North,Delhi,Technology,Mouse,Mouse,7,28733.64,15559.29,13174.35,15,December,2025,45.85%
+ORD10882,14-06-2025,C1153,Customer 228,South,Kerala,Furniture,Table,Table,3,3948.09,3063.96,884.13,15,June,2025,22.39%
+ORD10883,05-11-2025,C1240,Customer 287,West,Gujarat,Technology,Laptop,Laptop,8,45974.37,41335.76,4638.61,20,November,2025,10.09%
+ORD10884,23-06-2025,C1300,Customer 151,South,Kerala,Technology,Keyboard,Keyboard,2,31960.17,24538.57,7421.6,5,June,2025,23.22%
+ORD10885,11-12-2025,C1244,Customer 106,North,Delhi,Office Supplies,Binder,Binder,8,30515.4,16357.35,14158.05,15,December,2025,46.40%
+ORD10886,14-04-2025,C1270,Customer 221,South,Tamil Nadu,Furniture,Chair,Chair,10,42688.84,37620.16,5068.68,15,April,2025,11.87%
+ORD10887,22-06-2025,C1218,Customer 173,West,Gujarat,Technology,Keyboard,Keyboard,6,41629.88,25955.42,15674.46,5,June,2025,37.65%
+ORD10888,30-07-2025,C1193,Customer 254,West,Gujarat,Furniture,Chair,Chair,3,47187.85,31478.86,15708.99,10,July,2025,33.29%
+ORD10889,25-03-2025,C1205,Customer 289,North,Delhi,Office Supplies,Paper,Paper,9,7356.26,6544.86,811.4,15,March,2025,11.03%
+ORD10890,15-02-2025,C1022,Customer 229,West,Maharashtra,Furniture,Chair,Chair,8,49606.98,34738.57,14868.41,20,February,2025,29.97%
+ORD10891,15-03-2025,C1212,Customer 62,West,Gujarat,Technology,Mouse,Mouse,3,38204.27,31863.03,6341.24,20,March,2025,16.60%
+ORD10892,17-06-2025,C1226,Customer 35,South,Tamil Nadu,Office Supplies,Paper,Paper,4,3949.79,2345.13,1604.66,10,June,2025,40.63%
+ORD10893,08-01-2025,C1028,Customer 145,South,Karnataka,Furniture,Chair,Chair,4,10489.54,6444.89,4044.65,5,January,2025,38.56%
+ORD10894,17-07-2025,C1058,Customer 193,North,Delhi,Technology,Laptop,Laptop,3,29693.2,16434.58,13258.62,15,July,2025,44.65%
+ORD10895,25-12-2025,C1114,Customer 146,East,West Bengal,Technology,Laptop,Laptop,10,47171.95,29859.25,17312.7,15,December,2025,36.70%
+ORD10896,10-11-2025,C1250,Customer 276,South,Kerala,Office Supplies,Pen,Pen,3,18419.77,11049.27,7370.5,20,November,2025,40.01%
+ORD10897,05-12-2025,C1175,Customer 118,West,Gujarat,Furniture,Table,Table,4,29982.49,22467.23,7515.26,0,December,2025,25.07%
+ORD10898,29-01-2025,C1144,Customer 296,North,Punjab,Technology,Mouse,Mouse,9,34493.14,23543.83,10949.31,10,January,2025,31.74%
+ORD10899,07-12-2025,C1101,Customer 235,West,Gujarat,Technology,Mouse,Mouse,7,48650.82,26342.18,22308.64,10,December,2025,45.85%
+ORD10900,29-03-2025,C1264,Customer 256,North,Punjab,Office Supplies,Pen,Pen,9,978.12,874.88,103.24,15,March,2025,10.55%
+ORD10901,15-06-2025,C1256,Customer 88,South,Karnataka,Furniture,Chair,Chair,3,2560.04,2249.8,310.24,10,June,2025,12.12%
+ORD10902,21-06-2025,C1277,Customer 62,East,Odisha,Office Supplies,Pen,Pen,5,32805.18,16776.16,16029.02,5,June,2025,48.86%
+ORD10903,28-09-2025,C1252,Customer 115,South,Kerala,Furniture,Chair,Chair,3,12472,9216.37,3255.63,10,September,2025,26.10%
+ORD10904,29-11-2025,C1057,Customer 52,North,Delhi,Furniture,Chair,Chair,2,15327.67,8293.26,7034.41,15,November,2025,45.89%
+ORD10905,27-06-2025,C1002,Customer 212,West,Maharashtra,Office Supplies,Binder,Binder,4,49618.41,44546.74,5071.67,15,June,2025,10.22%
+ORD10906,28-08-2025,C1144,Customer 140,North,Punjab,Technology,Keyboard,Keyboard,4,47834.56,26034.18,21800.38,10,August,2025,45.57%
+ORD10907,17-07-2025,C1255,Customer 295,West,Maharashtra,Technology,Mouse,Mouse,7,43416.13,36639.96,6776.17,15,July,2025,15.61%
+ORD10908,29-01-2025,C1008,Customer 162,North,Punjab,Furniture,Chair,Chair,3,17636.74,13718.3,3918.44,0,January,2025,22.22%
+ORD10909,06-11-2025,C1230,Customer 158,West,Maharashtra,Furniture,Table,Table,3,42607.24,29743.85,12863.39,10,November,2025,30.19%
+ORD10910,07-07-2025,C1030,Customer 106,West,Maharashtra,Technology,Laptop,Laptop,5,23054.44,14537.91,8516.53,0,July,2025,36.94%
+ORD10911,22-07-2025,C1139,Customer 275,West,Maharashtra,Office Supplies,Pen,Pen,6,20331.79,14826.38,5505.41,0,July,2025,27.08%
+ORD10912,15-11-2025,C1242,Customer 68,South,Karnataka,Furniture,Chair,Chair,1,5601.92,3056.6,2545.32,0,November,2025,45.44%
+ORD10913,20-06-2025,C1156,Customer 58,South,Karnataka,Furniture,Table,Table,2,15907.69,9063.13,6844.56,15,June,2025,43.03%
+ORD10914,26-08-2025,C1214,Customer 163,South,Kerala,Office Supplies,Paper,Paper,6,46555.94,27879.75,18676.19,10,August,2025,40.12%
+ORD10915,09-04-2025,C1021,Customer 57,North,Delhi,Furniture,Table,Table,2,47955.88,31941.38,16014.5,0,April,2025,33.39%
+ORD10916,03-02-2025,C1204,Customer 279,West,Gujarat,Office Supplies,Paper,Paper,2,47564.62,31094.99,16469.63,0,February,2025,34.63%
+ORD10917,30-11-2025,C1240,Customer 17,West,Gujarat,Office Supplies,Paper,Paper,8,41337.59,30579.02,10758.57,20,November,2025,26.03%
+ORD10918,15-12-2025,C1208,Customer 4,East,Odisha,Office Supplies,Paper,Paper,9,39118.46,29851.48,9266.98,10,December,2025,23.69%
+ORD10919,13-09-2025,C1209,Customer 260,South,Karnataka,Office Supplies,Binder,Binder,5,3830.35,2978.18,852.17,0,September,2025,22.25%
+ORD10920,30-12-2025,C1058,Customer 117,West,Gujarat,Technology,Laptop,Laptop,5,23046.91,19187.61,3859.3,15,December,2025,16.75%
+ORD10921,11-06-2025,C1074,Customer 78,East,West Bengal,Technology,Mouse,Mouse,7,3019.21,2482.85,536.36,10,June,2025,17.76%
+ORD10922,15-06-2025,C1059,Customer 182,South,Kerala,Technology,Laptop,Laptop,7,4378.04,2287.22,2090.82,0,June,2025,47.76%
+ORD10923,17-10-2025,C1069,Customer 214,West,Maharashtra,Furniture,Table,Table,6,26591.85,20974.64,5617.21,0,October,2025,21.12%
+ORD10924,16-12-2025,C1169,Customer 144,North,Delhi,Furniture,Chair,Chair,6,42402.97,37615.9,4787.07,0,December,2025,11.29%
+ORD10925,22-03-2025,C1240,Customer 189,West,Maharashtra,Office Supplies,Pen,Pen,6,43012.46,29392.2,13620.26,20,March,2025,31.67%
+ORD10926,24-11-2025,C1268,Customer 104,North,Punjab,Technology,Laptop,Laptop,3,14361.47,11811.26,2550.21,10,November,2025,17.76%
+ORD10927,13-08-2025,C1062,Customer 192,South,Karnataka,Furniture,Table,Table,1,35633.57,19137.21,16496.36,15,August,2025,46.29%
+ORD10928,17-02-2025,C1152,Customer 157,South,Tamil Nadu,Office Supplies,Pen,Pen,2,47411.42,37963.35,9448.07,5,February,2025,19.93%
+ORD10929,21-08-2025,C1258,Customer 234,North,Punjab,Office Supplies,Paper,Paper,4,39858.11,32475.5,7382.61,15,August,2025,18.52%
+ORD10930,23-07-2025,C1062,Customer 207,East,West Bengal,Technology,Laptop,Laptop,1,31612.27,18283.08,13329.19,5,July,2025,42.16%
+ORD10931,07-11-2025,C1281,Customer 159,South,Tamil Nadu,Furniture,Chair,Chair,5,17442.74,12862.32,4580.42,15,November,2025,26.26%
+ORD10932,17-11-2025,C1088,Customer 134,East,West Bengal,Furniture,Chair,Chair,10,33089.5,17353.14,15736.36,5,November,2025,47.56%
+ORD10933,03-05-2025,C1115,Customer 183,West,Gujarat,Technology,Mouse,Mouse,4,11136.29,6924.79,4211.5,15,May,2025,37.82%
+ORD10934,19-02-2025,C1128,Customer 213,West,Gujarat,Office Supplies,Paper,Paper,9,26082.81,14415.26,11667.55,20,February,2025,44.73%
+ORD10935,05-11-2025,C1265,Customer 108,South,Kerala,Furniture,Chair,Chair,10,12157.77,7104.64,5053.13,15,November,2025,41.56%
+ORD10936,25-01-2025,C1261,Customer 21,West,Maharashtra,Office Supplies,Paper,Paper,2,37361.91,25430.34,11931.57,10,January,2025,31.94%
+ORD10937,18-10-2025,C1170,Customer 126,North,Punjab,Furniture,Table,Table,7,14812.02,11340.26,3471.76,20,October,2025,23.44%
+ORD10938,24-01-2025,C1279,Customer 205,East,Odisha,Technology,Mouse,Mouse,6,28625.79,21203.67,7422.12,20,January,2025,25.93%
+ORD10939,02-08-2025,C1016,Customer 129,South,Karnataka,Technology,Mouse,Mouse,1,13709.37,10493.43,3215.94,5,August,2025,23.46%
+ORD10940,10-02-2025,C1290,Customer 128,South,Kerala,Furniture,Chair,Chair,2,29444.31,25456.25,3988.06,15,February,2025,13.54%
+ORD10941,09-12-2025,C1126,Customer 130,South,Karnataka,Office Supplies,Pen,Pen,1,31183.94,26812.81,4371.13,5,December,2025,14.02%
+ORD10942,15-12-2025,C1252,Customer 274,South,Tamil Nadu,Office Supplies,Pen,Pen,9,37009.38,31736.6,5272.78,5,December,2025,14.25%
+ORD10943,09-11-2025,C1029,Customer 257,North,Punjab,Office Supplies,Binder,Binder,7,23016.64,20330.95,2685.69,20,November,2025,11.67%
+ORD10944,18-09-2025,C1044,Customer 80,South,Kerala,Technology,Mouse,Mouse,4,7897.32,6340.28,1557.04,10,September,2025,19.72%
+ORD10945,22-07-2025,C1107,Customer 147,West,Maharashtra,Office Supplies,Binder,Binder,6,3407.89,2569.42,838.47,5,July,2025,24.60%
+ORD10946,02-10-2025,C1140,Customer 35,East,West Bengal,Furniture,Table,Table,5,30176.94,24548.18,5628.76,0,October,2025,18.65%
+ORD10947,13-06-2025,C1008,Customer 189,South,Karnataka,Furniture,Chair,Chair,10,40190.18,25704,14486.18,10,June,2025,36.04%
+ORD10948,17-12-2025,C1300,Customer 223,South,Tamil Nadu,Office Supplies,Paper,Paper,3,5754.61,4991.11,763.5,20,December,2025,13.27%
+ORD10949,10-09-2025,C1090,Customer 275,West,Maharashtra,Technology,Mouse,Mouse,5,8760.79,5473.8,3286.99,15,September,2025,37.52%
+ORD10950,02-07-2025,C1271,Customer 222,West,Maharashtra,Technology,Mouse,Mouse,6,26577.78,14674.95,11902.83,10,July,2025,44.78%
+ORD10951,08-11-2025,C1073,Customer 251,North,Punjab,Office Supplies,Binder,Binder,4,7485.39,5619.36,1866.03,20,November,2025,24.93%
+ORD10952,10-05-2025,C1162,Customer 205,West,Gujarat,Furniture,Chair,Chair,8,40382.9,35782.13,4600.77,0,May,2025,11.39%
+ORD10953,10-03-2025,C1043,Customer 266,West,Gujarat,Technology,Keyboard,Keyboard,4,20564.05,15889.39,4674.66,5,March,2025,22.73%
+ORD10954,26-04-2025,C1170,Customer 65,East,West Bengal,Technology,Keyboard,Keyboard,4,23391.71,16622.62,6769.09,15,April,2025,28.94%
+ORD10955,18-10-2025,C1290,Customer 87,West,Maharashtra,Office Supplies,Pen,Pen,8,12091.22,10376.93,1714.29,0,October,2025,14.18%
+ORD10956,12-08-2025,C1099,Customer 132,West,Gujarat,Office Supplies,Binder,Binder,3,37174.69,28732.95,8441.74,5,August,2025,22.71%
+ORD10957,08-06-2025,C1142,Customer 136,North,Delhi,Office Supplies,Paper,Paper,8,31426.07,21546.36,9879.71,5,June,2025,31.44%
+ORD10958,19-07-2025,C1249,Customer 126,West,Maharashtra,Furniture,Chair,Chair,2,7580.08,5228.45,2351.63,15,July,2025,31.02%
+ORD10959,26-03-2025,C1244,Customer 31,West,Gujarat,Furniture,Chair,Chair,9,8621.63,6534.48,2087.15,10,March,2025,24.21%
+ORD10960,01-04-2025,C1227,Customer 256,East,Odisha,Technology,Keyboard,Keyboard,6,7783.76,5368.96,2414.8,15,April,2025,31.02%
+ORD10961,18-12-2025,C1168,Customer 111,South,Tamil Nadu,Furniture,Chair,Chair,6,7226.03,3627.47,3598.56,5,December,2025,49.80%
+ORD10962,25-03-2025,C1170,Customer 277,East,West Bengal,Furniture,Chair,Chair,8,13640.03,8818.06,4821.97,10,March,2025,35.35%
+ORD10963,23-01-2025,C1107,Customer 243,South,Tamil Nadu,Office Supplies,Pen,Pen,7,36884.48,21148.78,15735.7,5,January,2025,42.66%
+ORD10964,28-09-2025,C1170,Customer 266,South,Karnataka,Furniture,Table,Table,8,3011.61,2669.14,342.47,10,September,2025,11.37%
+ORD10965,31-03-2025,C1033,Customer 36,West,Gujarat,Office Supplies,Pen,Pen,5,36901.32,27321.01,9580.31,20,March,2025,25.96%
+ORD10966,15-12-2025,C1261,Customer 209,South,Tamil Nadu,Technology,Mouse,Mouse,2,12679.4,7521.7,5157.7,10,December,2025,40.68%
+ORD10967,04-10-2025,C1011,Customer 140,West,Gujarat,Furniture,Chair,Chair,4,45443.51,31956.39,13487.12,20,October,2025,29.68%
+ORD10968,28-04-2025,C1148,Customer 114,North,Delhi,Furniture,Table,Table,8,47568.43,41778.32,5790.11,0,April,2025,12.17%
+ORD10969,14-07-2025,C1158,Customer 99,South,Kerala,Furniture,Chair,Chair,7,47347.19,40140.87,7206.32,15,July,2025,15.22%
+ORD10970,02-10-2025,C1214,Customer 188,South,Karnataka,Technology,Laptop,Laptop,2,20906.38,11488.96,9417.42,5,October,2025,45.05%
+ORD10971,18-11-2025,C1191,Customer 206,South,Tamil Nadu,Furniture,Table,Table,4,620.99,321.97,299.02,15,November,2025,48.15%
+ORD10972,28-02-2025,C1041,Customer 153,West,Gujarat,Technology,Mouse,Mouse,8,45315.97,38427.98,6887.99,0,February,2025,15.20%
+ORD10973,29-01-2025,C1153,Customer 266,South,Tamil Nadu,Furniture,Chair,Chair,8,39783.47,30047.79,9735.68,20,January,2025,24.47%
+ORD10974,25-07-2025,C1270,Customer 135,South,Tamil Nadu,Furniture,Chair,Chair,1,7186.59,5593.44,1593.15,15,July,2025,22.17%
+ORD10975,10-03-2025,C1230,Customer 103,North,Punjab,Technology,Mouse,Mouse,8,43102.96,35888.06,7214.9,20,March,2025,16.74%
+ORD10976,01-03-2025,C1216,Customer 23,North,Punjab,Technology,Laptop,Laptop,3,33257.63,19852.31,13405.32,15,March,2025,40.31%
+ORD10977,13-09-2025,C1018,Customer 224,West,Gujarat,Furniture,Table,Table,6,27636.18,22392.5,5243.68,10,September,2025,18.97%
+ORD10978,20-03-2025,C1154,Customer 216,West,Maharashtra,Furniture,Table,Table,7,42159.11,32226.61,9932.5,15,March,2025,23.56%
+ORD10979,28-08-2025,C1104,Customer 54,South,Kerala,Furniture,Table,Table,3,2462.82,1993.61,469.21,5,August,2025,19.05%
+ORD10980,16-03-2025,C1150,Customer 242,North,Delhi,Furniture,Table,Table,2,3835.94,3087.85,748.09,20,March,2025,19.50%
+ORD10981,01-11-2025,C1157,Customer 204,South,Tamil Nadu,Furniture,Chair,Chair,5,43984.79,28780.24,15204.55,15,November,2025,34.57%
+ORD10982,10-07-2025,C1077,Customer 29,West,Maharashtra,Technology,Laptop,Laptop,7,1355.04,815.31,539.73,20,July,2025,39.83%
+ORD10983,26-09-2025,C1205,Customer 190,East,Odisha,Office Supplies,Binder,Binder,5,15096.04,9587.28,5508.76,10,September,2025,36.49%
+ORD10984,16-08-2025,C1204,Customer 234,East,Odisha,Furniture,Chair,Chair,9,9857.35,8811.35,1046,15,August,2025,10.61%
+ORD10985,02-10-2025,C1169,Customer 297,East,Odisha,Technology,Mouse,Mouse,3,20317.34,16500.89,3816.45,5,October,2025,18.78%
+ORD10986,21-08-2025,C1036,Customer 199,South,Karnataka,Office Supplies,Binder,Binder,10,8371.22,5100.41,3270.81,0,August,2025,39.07%
+ORD10987,10-01-2025,C1083,Customer 56,North,Delhi,Technology,Mouse,Mouse,3,9287.93,4802.47,4485.46,0,January,2025,48.29%
+ORD10988,04-01-2025,C1288,Customer 176,East,Odisha,Furniture,Table,Table,8,33082.65,28390.2,4692.45,5,January,2025,14.18%
+ORD10989,19-02-2025,C1181,Customer 168,East,West Bengal,Office Supplies,Binder,Binder,8,32793.73,23924.62,8869.11,10,February,2025,27.05%
+ORD10990,03-06-2025,C1293,Customer 82,North,Delhi,Technology,Mouse,Mouse,3,15383.27,13344.82,2038.45,0,June,2025,13.25%
+ORD10991,16-04-2025,C1059,Customer 133,West,Maharashtra,Office Supplies,Binder,Binder,9,30939.65,18044.64,12895.01,10,April,2025,41.68%
+ORD10992,15-10-2025,C1003,Customer 180,East,West Bengal,Office Supplies,Pen,Pen,4,16850.2,10107.65,6742.55,5,October,2025,40.01%
+ORD10993,22-03-2025,C1025,Customer 54,North,Delhi,Office Supplies,Binder,Binder,2,21918.47,16018.2,5900.27,20,March,2025,26.92%
+ORD10994,22-11-2025,C1093,Customer 141,North,Delhi,Furniture,Table,Table,4,48817.21,31065.8,17751.41,0,November,2025,36.36%
+ORD10995,11-08-2025,C1237,Customer 163,East,Odisha,Technology,Keyboard,Keyboard,10,13691.59,8251.85,5439.74,15,August,2025,39.73%
+ORD10996,28-01-2025,C1067,Customer 52,West,Gujarat,Office Supplies,Binder,Binder,2,25080.47,16649.62,8430.85,10,January,2025,33.62%
+ORD10997,13-05-2025,C1276,Customer 254,East,Odisha,Furniture,Chair,Chair,5,39998.07,33142.96,6855.11,20,May,2025,17.14%
+ORD10998,22-08-2025,C1198,Customer 224,East,Odisha,Technology,Keyboard,Keyboard,3,39113.78,34601.03,4512.75,15,August,2025,11.54%
+ORD10999,01-05-2025,C1257,Customer 139,North,Delhi,Technology,Mouse,Mouse,8,35578.18,21724.19,13853.99,15,May,2025,38.94%
+ORD11000,25-08-2025,C1280,Customer 33,North,Delhi,Office Supplies,Binder,Binder,9,14687.99,10784.58,3903.41,15,August,2025,26.58%
+ORD11001,27-11-2025,C1000,Customer 220,West,Maharashtra,Technology,Laptop,Laptop,5,40153.2,29142.61,11010.59,20,November,2025,27.42%
